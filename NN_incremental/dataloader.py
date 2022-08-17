@@ -1,5 +1,6 @@
 import sys, os
 import random
+import json
 
 from torch.utils.data import Dataset, DataLoader
 import torch
@@ -23,7 +24,7 @@ class LMdata(Dataset):
             lines = f.readlines()
         for line in lines:
             lineelems = line.strip().split(',')
-            datapiece = {'label': int(lineelems[0]), 'feature': lineelems[1:]}
+            datapiece = {'label': int(lineelems[-1]), 'feature': lineelems[:-1]}
             self.data.append(datapiece)
         self.dictionaries = dictionaries
 
@@ -33,8 +34,9 @@ class LMdata(Dataset):
     def __getitem__(self, idx):
         datapiece = self.data[idx]
         featurevec = []
-        for i, feature in enumerate(datapiece['feature']):
+        for i, feature in enumerate(datapiece['feature'][1:]):
             featurevec.append(self.dictionaries[i].obj2idx[feature])
+        featurevec.append(int(datapiece['feature'][0]))
         return featurevec, datapiece['label']
 
 def collate_fn(batch):
@@ -47,6 +49,10 @@ def create(datapath, dictionary=None, batchSize=1, shuffle=True, workers=0):
     datatype_dict = os.path.join(datapath, 'datatypes.txt')
     recipient_dict = os.path.join(datapath, 'reciptypes.txt')
     condition_dict = os.path.join(datapath, 'conditions.txt')
+    users = os.path.join(datapath, 'userID.json')
+    with open(users) as fin:
+        users = json.load(fin)
+        nusers = len(users.keys())
     datatype_dict = Dictionary(datatype_dict)
     recipient_dict = Dictionary(recipient_dict)
     condition_dict = Dictionary(condition_dict)
@@ -57,4 +63,4 @@ def create(datapath, dictionary=None, batchSize=1, shuffle=True, workers=0):
         loaders.append(DataLoader(dataset=dataset, batch_size=batchSize,
                                   shuffle=shuffle, collate_fn=collate_fn,
                                   num_workers=workers))
-    return loaders[0], loaders[1], loaders[2], datatype_dict, recipient_dict, condition_dict
+    return loaders[0], loaders[1], loaders[2], datatype_dict, recipient_dict, condition_dict, nusers

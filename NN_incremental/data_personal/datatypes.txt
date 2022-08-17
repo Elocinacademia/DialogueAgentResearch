@@ -1,0 +1,15 @@
+healthcare
+camera
+video call
+todo
+playlists
+thermostat
+email
+location
+voice recording
+sleep hours
+weather
+door locker
+call assistant
+shopping
+banking

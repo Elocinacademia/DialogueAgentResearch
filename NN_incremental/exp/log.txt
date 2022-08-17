@@ -1130,3 +1130,1026 @@ Epoch: 2 | Step: 1600 out of 3563 | Loss: 0.62067
 Epoch: 2 | Step: 1800 out of 3563 | Loss: 0.62017
 Epoch: 2 | Step: 2000 out of 3563 | Loss: 0.61982
 Epoch: 2 | Step: 2200 out of 3563 | Loss: 0.62023
+Epoch: 0 | Step: 200 out of 3239 | Loss: 0.68536
+Epoch: 0 | Step: 400 out of 3239 | Loss: 0.66115
+Epoch: 0 | Step: 600 out of 3239 | Loss: 0.65135
+Epoch: 0 | Step: 800 out of 3239 | Loss: 0.64703
+Epoch: 0 | Step: 1000 out of 3239 | Loss: 0.64417
+Epoch: 0 | Step: 1200 out of 3239 | Loss: 0.64151
+Epoch: 0 | Step: 1400 out of 3239 | Loss: 0.63855
+Epoch: 0 | Step: 1600 out of 3239 | Loss: 0.63617
+Epoch: 0 | Step: 1800 out of 3239 | Loss: 0.63382
+Epoch: 0 | Step: 2000 out of 3239 | Loss: 0.63149
+Epoch: 0 | Step: 2200 out of 3239 | Loss: 0.62986
+Epoch: 0 | Step: 2400 out of 3239 | Loss: 0.62810
+Epoch: 0 | Step: 2600 out of 3239 | Loss: 0.62641
+Epoch: 0 | Step: 2800 out of 3239 | Loss: 0.62544
+Epoch: 0 | Step: 3000 out of 3239 | Loss: 0.62485
+Epoch: 0 | Step: 3200 out of 3239 | Loss: 0.62356
+=========================================================================================
+Epoch: 0 | Validation Loss: 0.61299 | Validation Accuracy: 0.66
+=========================================================================================
+saving best model...
+Epoch: 1 | Step: 200 out of 3239 | Loss: 0.61034
+Epoch: 1 | Step: 400 out of 3239 | Loss: 0.60802
+Epoch: 1 | Step: 600 out of 3239 | Loss: 0.60808
+Epoch: 1 | Step: 800 out of 3239 | Loss: 0.60729
+Epoch: 1 | Step: 1000 out of 3239 | Loss: 0.60667
+Epoch: 1 | Step: 1200 out of 3239 | Loss: 0.60609
+Epoch: 1 | Step: 1400 out of 3239 | Loss: 0.60538
+Epoch: 1 | Step: 1600 out of 3239 | Loss: 0.60495
+Epoch: 1 | Step: 1800 out of 3239 | Loss: 0.60427
+Epoch: 1 | Step: 2000 out of 3239 | Loss: 0.60419
+Epoch: 1 | Step: 2200 out of 3239 | Loss: 0.60368
+Epoch: 1 | Step: 2400 out of 3239 | Loss: 0.60398
+Epoch: 1 | Step: 2600 out of 3239 | Loss: 0.60317
+Epoch: 1 | Step: 2800 out of 3239 | Loss: 0.60311
+Epoch: 1 | Step: 3000 out of 3239 | Loss: 0.60297
+Epoch: 1 | Step: 3200 out of 3239 | Loss: 0.60261
+=========================================================================================
+Epoch: 1 | Validation Loss: 0.61764 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 2 | Step: 200 out of 3239 | Loss: 0.59054
+Epoch: 2 | Step: 400 out of 3239 | Loss: 0.59297
+Epoch: 2 | Step: 600 out of 3239 | Loss: 0.59183
+Epoch: 2 | Step: 800 out of 3239 | Loss: 0.59240
+Epoch: 2 | Step: 1000 out of 3239 | Loss: 0.59336
+Epoch: 2 | Step: 1200 out of 3239 | Loss: 0.59423
+Epoch: 2 | Step: 1400 out of 3239 | Loss: 0.59469
+Epoch: 2 | Step: 1600 out of 3239 | Loss: 0.59459
+Epoch: 2 | Step: 1800 out of 3239 | Loss: 0.59471
+Epoch: 2 | Step: 2000 out of 3239 | Loss: 0.59491
+Epoch: 2 | Step: 2200 out of 3239 | Loss: 0.59522
+Epoch: 2 | Step: 2400 out of 3239 | Loss: 0.59540
+Epoch: 2 | Step: 2600 out of 3239 | Loss: 0.59451
+Epoch: 2 | Step: 2800 out of 3239 | Loss: 0.59510
+Epoch: 2 | Step: 3000 out of 3239 | Loss: 0.59561
+Epoch: 2 | Step: 3200 out of 3239 | Loss: 0.59554
+=========================================================================================
+Epoch: 2 | Validation Loss: 0.62248 | Validation Accuracy: 0.64
+=========================================================================================
+Epoch: 3 | Step: 200 out of 3239 | Loss: 0.60172
+Epoch: 3 | Step: 400 out of 3239 | Loss: 0.59748
+Epoch: 3 | Step: 600 out of 3239 | Loss: 0.59593
+Epoch: 3 | Step: 800 out of 3239 | Loss: 0.59364
+Epoch: 3 | Step: 1000 out of 3239 | Loss: 0.59402
+Epoch: 3 | Step: 1200 out of 3239 | Loss: 0.59418
+Epoch: 3 | Step: 1400 out of 3239 | Loss: 0.59302
+Epoch: 3 | Step: 1600 out of 3239 | Loss: 0.59289
+Epoch: 3 | Step: 1800 out of 3239 | Loss: 0.59286
+Epoch: 3 | Step: 2000 out of 3239 | Loss: 0.59288
+Epoch: 3 | Step: 2200 out of 3239 | Loss: 0.59250
+Epoch: 3 | Step: 2400 out of 3239 | Loss: 0.59179
+Epoch: 3 | Step: 2600 out of 3239 | Loss: 0.59151
+Epoch: 3 | Step: 2800 out of 3239 | Loss: 0.59184
+Epoch: 3 | Step: 3000 out of 3239 | Loss: 0.59203
+Epoch: 3 | Step: 3200 out of 3239 | Loss: 0.59226
+=========================================================================================
+Epoch: 3 | Validation Loss: 0.62147 | Validation Accuracy: 0.65
+=========================================================================================
+Epoch: 4 | Step: 200 out of 3239 | Loss: 0.58473
+Epoch: 4 | Step: 400 out of 3239 | Loss: 0.58620
+Epoch: 4 | Step: 600 out of 3239 | Loss: 0.58615
+Epoch: 4 | Step: 800 out of 3239 | Loss: 0.58739
+Epoch: 4 | Step: 1000 out of 3239 | Loss: 0.58715
+Epoch: 4 | Step: 1200 out of 3239 | Loss: 0.58659
+Epoch: 4 | Step: 1400 out of 3239 | Loss: 0.58615
+Epoch: 4 | Step: 1600 out of 3239 | Loss: 0.58699
+Epoch: 4 | Step: 1800 out of 3239 | Loss: 0.58721
+Epoch: 4 | Step: 2000 out of 3239 | Loss: 0.58715
+Epoch: 4 | Step: 2200 out of 3239 | Loss: 0.58726
+Epoch: 4 | Step: 2400 out of 3239 | Loss: 0.58767
+Epoch: 4 | Step: 2600 out of 3239 | Loss: 0.58777
+Epoch: 4 | Step: 2800 out of 3239 | Loss: 0.58841
+Epoch: 4 | Step: 3000 out of 3239 | Loss: 0.58788
+Epoch: 4 | Step: 3200 out of 3239 | Loss: 0.58791
+=========================================================================================
+Epoch: 4 | Validation Loss: 0.62704 | Validation Accuracy: 0.65
+=========================================================================================
+Epoch: 5 | Step: 200 out of 3239 | Loss: 0.58550
+Epoch: 5 | Step: 400 out of 3239 | Loss: 0.58550
+Epoch: 5 | Step: 600 out of 3239 | Loss: 0.58375
+Epoch: 5 | Step: 800 out of 3239 | Loss: 0.58362
+Epoch: 5 | Step: 1000 out of 3239 | Loss: 0.58361
+Epoch: 5 | Step: 1200 out of 3239 | Loss: 0.58343
+Epoch: 5 | Step: 1400 out of 3239 | Loss: 0.58309
+Epoch: 5 | Step: 1600 out of 3239 | Loss: 0.58297
+Epoch: 5 | Step: 1800 out of 3239 | Loss: 0.58221
+Epoch: 5 | Step: 2000 out of 3239 | Loss: 0.58216
+Epoch: 5 | Step: 2200 out of 3239 | Loss: 0.58147
+Epoch: 5 | Step: 2400 out of 3239 | Loss: 0.58172
+Epoch: 5 | Step: 2600 out of 3239 | Loss: 0.58178
+Epoch: 5 | Step: 2800 out of 3239 | Loss: 0.58233
+Epoch: 5 | Step: 3000 out of 3239 | Loss: 0.58229
+Epoch: 5 | Step: 3200 out of 3239 | Loss: 0.58251
+=========================================================================================
+Epoch: 5 | Validation Loss: 0.63026 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 6 | Step: 200 out of 3239 | Loss: 0.57267
+Epoch: 6 | Step: 400 out of 3239 | Loss: 0.57349
+Epoch: 6 | Step: 600 out of 3239 | Loss: 0.57714
+Epoch: 6 | Step: 800 out of 3239 | Loss: 0.57827
+Epoch: 6 | Step: 1000 out of 3239 | Loss: 0.58108
+Epoch: 6 | Step: 1200 out of 3239 | Loss: 0.58227
+Epoch: 6 | Step: 1400 out of 3239 | Loss: 0.58273
+Epoch: 6 | Step: 1600 out of 3239 | Loss: 0.58327
+Epoch: 6 | Step: 1800 out of 3239 | Loss: 0.58318
+Epoch: 6 | Step: 2000 out of 3239 | Loss: 0.58379
+Epoch: 6 | Step: 2200 out of 3239 | Loss: 0.58492
+Epoch: 6 | Step: 2400 out of 3239 | Loss: 0.58712
+Epoch: 6 | Step: 2600 out of 3239 | Loss: 0.58775
+Epoch: 6 | Step: 2800 out of 3239 | Loss: 0.58898
+Epoch: 6 | Step: 3000 out of 3239 | Loss: 0.58910
+Epoch: 6 | Step: 3200 out of 3239 | Loss: 0.59056
+=========================================================================================
+Epoch: 6 | Validation Loss: 0.67943 | Validation Accuracy: 0.65
+=========================================================================================
+Epoch: 7 | Step: 200 out of 3239 | Loss: 0.59728
+Epoch: 7 | Step: 400 out of 3239 | Loss: 0.59945
+Epoch: 7 | Step: 600 out of 3239 | Loss: 0.60047
+Epoch: 7 | Step: 800 out of 3239 | Loss: 0.60042
+Epoch: 7 | Step: 1000 out of 3239 | Loss: 0.60172
+Epoch: 7 | Step: 1200 out of 3239 | Loss: 0.60315
+Epoch: 7 | Step: 1400 out of 3239 | Loss: 0.60185
+Epoch: 7 | Step: 1600 out of 3239 | Loss: 0.60172
+Epoch: 7 | Step: 1800 out of 3239 | Loss: 0.60086
+Epoch: 7 | Step: 2000 out of 3239 | Loss: 0.60062
+Epoch: 7 | Step: 2200 out of 3239 | Loss: 0.59993
+Epoch: 7 | Step: 2400 out of 3239 | Loss: 0.59972
+Epoch: 7 | Step: 2600 out of 3239 | Loss: 0.59934
+Epoch: 7 | Step: 2800 out of 3239 | Loss: 0.59935
+Epoch: 7 | Step: 3000 out of 3239 | Loss: 0.59880
+Epoch: 7 | Step: 3200 out of 3239 | Loss: 0.59774
+=========================================================================================
+Epoch: 7 | Validation Loss: 0.64723 | Validation Accuracy: 0.64
+=========================================================================================
+Epoch: 8 | Step: 200 out of 3239 | Loss: 0.58652
+Epoch: 8 | Step: 400 out of 3239 | Loss: 0.59134
+Epoch: 8 | Step: 600 out of 3239 | Loss: 0.59133
+Epoch: 8 | Step: 800 out of 3239 | Loss: 0.58664
+Epoch: 8 | Step: 1000 out of 3239 | Loss: 0.58867
+Epoch: 8 | Step: 1200 out of 3239 | Loss: 0.58759
+Epoch: 8 | Step: 1400 out of 3239 | Loss: 0.58595
+Epoch: 8 | Step: 1600 out of 3239 | Loss: 0.58579
+Epoch: 8 | Step: 1800 out of 3239 | Loss: 0.58548
+Epoch: 8 | Step: 2000 out of 3239 | Loss: 0.58595
+Epoch: 8 | Step: 2200 out of 3239 | Loss: 0.58637
+Epoch: 8 | Step: 2400 out of 3239 | Loss: 0.58711
+Epoch: 8 | Step: 2600 out of 3239 | Loss: 0.58766
+Epoch: 8 | Step: 2800 out of 3239 | Loss: 0.58757
+Epoch: 8 | Step: 3000 out of 3239 | Loss: 0.58820
+Epoch: 8 | Step: 3200 out of 3239 | Loss: 0.58960
+=========================================================================================
+Epoch: 8 | Validation Loss: 0.69706 | Validation Accuracy: 0.64
+=========================================================================================
+Epoch: 9 | Step: 200 out of 3239 | Loss: 0.61312
+Epoch: 9 | Step: 400 out of 3239 | Loss: 0.61105
+Epoch: 9 | Step: 600 out of 3239 | Loss: 0.61313
+Epoch: 9 | Step: 800 out of 3239 | Loss: 0.60921
+Epoch: 9 | Step: 1000 out of 3239 | Loss: 0.60584
+Epoch: 9 | Step: 1200 out of 3239 | Loss: 0.60425
+Epoch: 9 | Step: 1400 out of 3239 | Loss: 0.60234
+Epoch: 9 | Step: 1600 out of 3239 | Loss: 0.60119
+Epoch: 9 | Step: 1800 out of 3239 | Loss: 0.59980
+Epoch: 9 | Step: 2000 out of 3239 | Loss: 0.59920
+Epoch: 9 | Step: 2200 out of 3239 | Loss: 0.59861
+Epoch: 9 | Step: 2400 out of 3239 | Loss: 0.59848
+Epoch: 9 | Step: 2600 out of 3239 | Loss: 0.59812
+Epoch: 9 | Step: 2800 out of 3239 | Loss: 0.59753
+Epoch: 9 | Step: 3000 out of 3239 | Loss: 0.59762
+Epoch: 9 | Step: 3200 out of 3239 | Loss: 0.59789
+=========================================================================================
+Epoch: 9 | Validation Loss: 0.64742 | Validation Accuracy: 0.62
+=========================================================================================
+Epoch: 0 | Step: 200 out of 3239 | Loss: 0.70584
+Epoch: 0 | Step: 400 out of 3239 | Loss: 0.69432
+Epoch: 0 | Step: 600 out of 3239 | Loss: 0.68607
+Epoch: 0 | Step: 800 out of 3239 | Loss: 0.67551
+Epoch: 0 | Step: 1000 out of 3239 | Loss: 0.67047
+Epoch: 0 | Step: 1200 out of 3239 | Loss: 0.66463
+Epoch: 0 | Step: 1400 out of 3239 | Loss: 0.66021
+Epoch: 0 | Step: 1600 out of 3239 | Loss: 0.65669
+Epoch: 0 | Step: 1800 out of 3239 | Loss: 0.65267
+Epoch: 0 | Step: 2000 out of 3239 | Loss: 0.65039
+Epoch: 0 | Step: 2200 out of 3239 | Loss: 0.64913
+Epoch: 0 | Step: 2400 out of 3239 | Loss: 0.64702
+Epoch: 0 | Step: 2600 out of 3239 | Loss: 0.64560
+Epoch: 0 | Step: 2800 out of 3239 | Loss: 0.64390
+Epoch: 0 | Step: 3000 out of 3239 | Loss: 0.64229
+Epoch: 0 | Step: 3200 out of 3239 | Loss: 0.64140
+=========================================================================================
+Epoch: 0 | Validation Loss: 0.62215 | Validation Accuracy: 0.65
+=========================================================================================
+saving best model...
+Epoch: 1 | Step: 200 out of 3239 | Loss: 0.61907
+Epoch: 1 | Step: 400 out of 3239 | Loss: 0.61807
+Epoch: 1 | Step: 600 out of 3239 | Loss: 0.61841
+Epoch: 1 | Step: 800 out of 3239 | Loss: 0.61914
+Epoch: 1 | Step: 1000 out of 3239 | Loss: 0.61798
+Epoch: 1 | Step: 1200 out of 3239 | Loss: 0.61831
+Epoch: 1 | Step: 1400 out of 3239 | Loss: 0.61640
+Epoch: 1 | Step: 1600 out of 3239 | Loss: 0.61542
+Epoch: 1 | Step: 1800 out of 3239 | Loss: 0.61559
+Epoch: 1 | Step: 2000 out of 3239 | Loss: 0.61626
+Epoch: 1 | Step: 2200 out of 3239 | Loss: 0.61518
+Epoch: 1 | Step: 2400 out of 3239 | Loss: 0.61501
+Epoch: 1 | Step: 2600 out of 3239 | Loss: 0.61454
+Epoch: 1 | Step: 2800 out of 3239 | Loss: 0.61441
+Epoch: 1 | Step: 3000 out of 3239 | Loss: 0.61408
+Epoch: 1 | Step: 3200 out of 3239 | Loss: 0.61400
+=========================================================================================
+Epoch: 1 | Validation Loss: 0.62071 | Validation Accuracy: 0.66
+=========================================================================================
+saving best model...
+Epoch: 2 | Step: 200 out of 3239 | Loss: 0.60583
+Epoch: 2 | Step: 400 out of 3239 | Loss: 0.60404
+Epoch: 2 | Step: 600 out of 3239 | Loss: 0.60170
+Epoch: 2 | Step: 800 out of 3239 | Loss: 0.60230
+Epoch: 2 | Step: 1000 out of 3239 | Loss: 0.60411
+Epoch: 2 | Step: 1200 out of 3239 | Loss: 0.60413
+Epoch: 2 | Step: 1400 out of 3239 | Loss: 0.60325
+Epoch: 2 | Step: 1600 out of 3239 | Loss: 0.60266
+Epoch: 2 | Step: 1800 out of 3239 | Loss: 0.60323
+Epoch: 2 | Step: 2000 out of 3239 | Loss: 0.60303
+Epoch: 2 | Step: 2200 out of 3239 | Loss: 0.60315
+Epoch: 2 | Step: 2400 out of 3239 | Loss: 0.60283
+Epoch: 2 | Step: 2600 out of 3239 | Loss: 0.60167
+Epoch: 2 | Step: 2800 out of 3239 | Loss: 0.60169
+Epoch: 2 | Step: 3000 out of 3239 | Loss: 0.60176
+Epoch: 2 | Step: 3200 out of 3239 | Loss: 0.60202
+=========================================================================================
+Epoch: 2 | Validation Loss: 0.60985 | Validation Accuracy: 0.67
+=========================================================================================
+saving best model...
+Epoch: 3 | Step: 200 out of 3239 | Loss: 0.59758
+Epoch: 3 | Step: 400 out of 3239 | Loss: 0.59657
+Epoch: 3 | Step: 600 out of 3239 | Loss: 0.59690
+Epoch: 3 | Step: 800 out of 3239 | Loss: 0.59453
+Epoch: 3 | Step: 1000 out of 3239 | Loss: 0.59466
+Epoch: 3 | Step: 1200 out of 3239 | Loss: 0.59469
+Epoch: 3 | Step: 1400 out of 3239 | Loss: 0.59428
+Epoch: 3 | Step: 1600 out of 3239 | Loss: 0.59511
+Epoch: 3 | Step: 1800 out of 3239 | Loss: 0.59553
+Epoch: 3 | Step: 2000 out of 3239 | Loss: 0.59585
+Epoch: 3 | Step: 2200 out of 3239 | Loss: 0.59498
+Epoch: 3 | Step: 2400 out of 3239 | Loss: 0.59441
+Epoch: 3 | Step: 2600 out of 3239 | Loss: 0.59428
+Epoch: 3 | Step: 2800 out of 3239 | Loss: 0.59427
+Epoch: 3 | Step: 3000 out of 3239 | Loss: 0.59469
+Epoch: 3 | Step: 3200 out of 3239 | Loss: 0.59479
+=========================================================================================
+Epoch: 3 | Validation Loss: 0.61033 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 4 | Step: 200 out of 3239 | Loss: 0.58860
+Epoch: 4 | Step: 400 out of 3239 | Loss: 0.58740
+Epoch: 4 | Step: 600 out of 3239 | Loss: 0.58964
+Epoch: 4 | Step: 800 out of 3239 | Loss: 0.58957
+Epoch: 4 | Step: 1000 out of 3239 | Loss: 0.58828
+Epoch: 4 | Step: 1200 out of 3239 | Loss: 0.58786
+Epoch: 4 | Step: 1400 out of 3239 | Loss: 0.58766
+Epoch: 4 | Step: 1600 out of 3239 | Loss: 0.58789
+Epoch: 4 | Step: 1800 out of 3239 | Loss: 0.58742
+Epoch: 4 | Step: 2000 out of 3239 | Loss: 0.58713
+Epoch: 4 | Step: 2200 out of 3239 | Loss: 0.58708
+Epoch: 4 | Step: 2400 out of 3239 | Loss: 0.58636
+Epoch: 4 | Step: 2600 out of 3239 | Loss: 0.58577
+Epoch: 4 | Step: 2800 out of 3239 | Loss: 0.58638
+Epoch: 4 | Step: 3000 out of 3239 | Loss: 0.58567
+Epoch: 4 | Step: 3200 out of 3239 | Loss: 0.58558
+=========================================================================================
+Epoch: 4 | Validation Loss: 0.61260 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 5 | Step: 200 out of 3239 | Loss: 0.58477
+Epoch: 5 | Step: 400 out of 3239 | Loss: 0.58406
+Epoch: 5 | Step: 600 out of 3239 | Loss: 0.58277
+Epoch: 5 | Step: 800 out of 3239 | Loss: 0.58216
+Epoch: 5 | Step: 1000 out of 3239 | Loss: 0.58111
+Epoch: 5 | Step: 1200 out of 3239 | Loss: 0.58090
+Epoch: 5 | Step: 1400 out of 3239 | Loss: 0.58122
+Epoch: 5 | Step: 1600 out of 3239 | Loss: 0.58107
+Epoch: 5 | Step: 1800 out of 3239 | Loss: 0.58026
+Epoch: 5 | Step: 2000 out of 3239 | Loss: 0.57956
+Epoch: 5 | Step: 2200 out of 3239 | Loss: 0.57866
+Epoch: 5 | Step: 2400 out of 3239 | Loss: 0.57904
+Epoch: 5 | Step: 2600 out of 3239 | Loss: 0.57865
+Epoch: 5 | Step: 2800 out of 3239 | Loss: 0.57833
+Epoch: 5 | Step: 3000 out of 3239 | Loss: 0.57808
+Epoch: 5 | Step: 3200 out of 3239 | Loss: 0.57787
+=========================================================================================
+Epoch: 5 | Validation Loss: 0.61447 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 6 | Step: 200 out of 3239 | Loss: 0.56912
+Epoch: 6 | Step: 400 out of 3239 | Loss: 0.56981
+Epoch: 6 | Step: 600 out of 3239 | Loss: 0.57028
+Epoch: 6 | Step: 800 out of 3239 | Loss: 0.57078
+Epoch: 6 | Step: 1000 out of 3239 | Loss: 0.57136
+Epoch: 6 | Step: 1200 out of 3239 | Loss: 0.57103
+Epoch: 6 | Step: 1400 out of 3239 | Loss: 0.57078
+Epoch: 6 | Step: 1600 out of 3239 | Loss: 0.57103
+Epoch: 6 | Step: 1800 out of 3239 | Loss: 0.57065
+Epoch: 6 | Step: 2000 out of 3239 | Loss: 0.57010
+Epoch: 6 | Step: 2200 out of 3239 | Loss: 0.56982
+Epoch: 6 | Step: 2400 out of 3239 | Loss: 0.56998
+Epoch: 6 | Step: 2600 out of 3239 | Loss: 0.56917
+Epoch: 6 | Step: 2800 out of 3239 | Loss: 0.56883
+Epoch: 6 | Step: 3000 out of 3239 | Loss: 0.56832
+Epoch: 6 | Step: 3200 out of 3239 | Loss: 0.56850
+=========================================================================================
+Epoch: 6 | Validation Loss: 0.61728 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 7 | Step: 200 out of 3239 | Loss: 0.55899
+Epoch: 7 | Step: 400 out of 3239 | Loss: 0.56428
+Epoch: 7 | Step: 600 out of 3239 | Loss: 0.56423
+Epoch: 7 | Step: 800 out of 3239 | Loss: 0.56377
+Epoch: 7 | Step: 1000 out of 3239 | Loss: 0.56354
+Epoch: 7 | Step: 1200 out of 3239 | Loss: 0.56347
+Epoch: 7 | Step: 1400 out of 3239 | Loss: 0.56307
+Epoch: 7 | Step: 1600 out of 3239 | Loss: 0.56348
+Epoch: 7 | Step: 1800 out of 3239 | Loss: 0.56281
+Epoch: 7 | Step: 2000 out of 3239 | Loss: 0.56296
+Epoch: 7 | Step: 2200 out of 3239 | Loss: 0.56289
+Epoch: 7 | Step: 2400 out of 3239 | Loss: 0.56311
+Epoch: 7 | Step: 2600 out of 3239 | Loss: 0.56293
+Epoch: 7 | Step: 2800 out of 3239 | Loss: 0.56311
+Epoch: 7 | Step: 3000 out of 3239 | Loss: 0.56292
+Epoch: 7 | Step: 3200 out of 3239 | Loss: 0.56184
+=========================================================================================
+Epoch: 7 | Validation Loss: 0.61265 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 8 | Step: 200 out of 3239 | Loss: 0.55449
+Epoch: 8 | Step: 400 out of 3239 | Loss: 0.55974
+Epoch: 8 | Step: 600 out of 3239 | Loss: 0.55816
+Epoch: 8 | Step: 800 out of 3239 | Loss: 0.55808
+Epoch: 8 | Step: 1000 out of 3239 | Loss: 0.55807
+Epoch: 0 | Step: 200 out of 3239 | Loss: 0.69809
+Epoch: 0 | Step: 400 out of 3239 | Loss: 0.69281
+Epoch: 0 | Step: 600 out of 3239 | Loss: 0.69071
+Epoch: 0 | Step: 800 out of 3239 | Loss: 0.68552
+Epoch: 0 | Step: 1000 out of 3239 | Loss: 0.68076
+Epoch: 0 | Step: 1200 out of 3239 | Loss: 0.67639
+Epoch: 0 | Step: 1400 out of 3239 | Loss: 0.67159
+Epoch: 0 | Step: 1600 out of 3239 | Loss: 0.66791
+Epoch: 0 | Step: 1800 out of 3239 | Loss: 0.66419
+Epoch: 0 | Step: 2000 out of 3239 | Loss: 0.66125
+Epoch: 0 | Step: 2200 out of 3239 | Loss: 0.65850
+Epoch: 0 | Step: 2400 out of 3239 | Loss: 0.65598
+Epoch: 0 | Step: 2600 out of 3239 | Loss: 0.65389
+Epoch: 0 | Step: 2800 out of 3239 | Loss: 0.65132
+Epoch: 0 | Step: 3000 out of 3239 | Loss: 0.64959
+Epoch: 0 | Step: 3200 out of 3239 | Loss: 0.64808
+=========================================================================================
+Epoch: 0 | Validation Loss: 0.62415 | Validation Accuracy: 0.65
+=========================================================================================
+saving best model...
+Epoch: 1 | Step: 200 out of 3239 | Loss: 0.62542
+Epoch: 1 | Step: 400 out of 3239 | Loss: 0.62380
+Epoch: 1 | Step: 600 out of 3239 | Loss: 0.61980
+Epoch: 1 | Step: 800 out of 3239 | Loss: 0.61874
+Epoch: 1 | Step: 1000 out of 3239 | Loss: 0.61690
+Epoch: 1 | Step: 1200 out of 3239 | Loss: 0.61556
+Epoch: 1 | Step: 1400 out of 3239 | Loss: 0.61527
+Epoch: 1 | Step: 1600 out of 3239 | Loss: 0.61604
+Epoch: 1 | Step: 1800 out of 3239 | Loss: 0.61528
+Epoch: 1 | Step: 2000 out of 3239 | Loss: 0.61460
+Epoch: 1 | Step: 2200 out of 3239 | Loss: 0.61445
+Epoch: 1 | Step: 2400 out of 3239 | Loss: 0.61362
+Epoch: 1 | Step: 2600 out of 3239 | Loss: 0.61284
+Epoch: 1 | Step: 2800 out of 3239 | Loss: 0.61275
+Epoch: 1 | Step: 3000 out of 3239 | Loss: 0.61255
+Epoch: 1 | Step: 3200 out of 3239 | Loss: 0.61228
+=========================================================================================
+Epoch: 1 | Validation Loss: 0.61067 | Validation Accuracy: 0.67
+=========================================================================================
+saving best model...
+Epoch: 2 | Step: 200 out of 3239 | Loss: 0.60583
+Epoch: 2 | Step: 400 out of 3239 | Loss: 0.60344
+Epoch: 2 | Step: 600 out of 3239 | Loss: 0.60474
+Epoch: 2 | Step: 800 out of 3239 | Loss: 0.60468
+Epoch: 2 | Step: 1000 out of 3239 | Loss: 0.60294
+Epoch: 2 | Step: 1200 out of 3239 | Loss: 0.60373
+Epoch: 2 | Step: 1400 out of 3239 | Loss: 0.60312
+Epoch: 2 | Step: 1600 out of 3239 | Loss: 0.60388
+Epoch: 2 | Step: 1800 out of 3239 | Loss: 0.60252
+Epoch: 2 | Step: 2000 out of 3239 | Loss: 0.60225
+Epoch: 2 | Step: 2200 out of 3239 | Loss: 0.60239
+Epoch: 2 | Step: 2400 out of 3239 | Loss: 0.60238
+Epoch: 2 | Step: 2600 out of 3239 | Loss: 0.60224
+Epoch: 2 | Step: 2800 out of 3239 | Loss: 0.60169
+Epoch: 2 | Step: 3000 out of 3239 | Loss: 0.60127
+Epoch: 2 | Step: 3200 out of 3239 | Loss: 0.60103
+=========================================================================================
+Epoch: 2 | Validation Loss: 0.60951 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 3 | Step: 200 out of 3239 | Loss: 0.59084
+Epoch: 3 | Step: 400 out of 3239 | Loss: 0.59090
+Epoch: 3 | Step: 600 out of 3239 | Loss: 0.59039
+Epoch: 3 | Step: 800 out of 3239 | Loss: 0.59356
+Epoch: 3 | Step: 1000 out of 3239 | Loss: 0.59368
+Epoch: 3 | Step: 1200 out of 3239 | Loss: 0.59392
+Epoch: 3 | Step: 1400 out of 3239 | Loss: 0.59449
+Epoch: 3 | Step: 1600 out of 3239 | Loss: 0.59504
+Epoch: 3 | Step: 1800 out of 3239 | Loss: 0.59384
+Epoch: 3 | Step: 2000 out of 3239 | Loss: 0.59357
+Epoch: 3 | Step: 2200 out of 3239 | Loss: 0.59324
+Epoch: 3 | Step: 2400 out of 3239 | Loss: 0.59369
+Epoch: 3 | Step: 2600 out of 3239 | Loss: 0.59394
+Epoch: 3 | Step: 2800 out of 3239 | Loss: 0.59379
+Epoch: 3 | Step: 3000 out of 3239 | Loss: 0.59356
+Epoch: 3 | Step: 3200 out of 3239 | Loss: 0.59322
+=========================================================================================
+Epoch: 3 | Validation Loss: 0.60948 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 4 | Step: 200 out of 3239 | Loss: 0.59491
+Epoch: 4 | Step: 400 out of 3239 | Loss: 0.59289
+Epoch: 4 | Step: 600 out of 3239 | Loss: 0.59348
+Epoch: 4 | Step: 800 out of 3239 | Loss: 0.59047
+Epoch: 4 | Step: 1000 out of 3239 | Loss: 0.58871
+Epoch: 4 | Step: 1200 out of 3239 | Loss: 0.58887
+Epoch: 4 | Step: 1400 out of 3239 | Loss: 0.58790
+Epoch: 4 | Step: 1600 out of 3239 | Loss: 0.58759
+Epoch: 4 | Step: 1800 out of 3239 | Loss: 0.58783
+Epoch: 4 | Step: 2000 out of 3239 | Loss: 0.58796
+Epoch: 4 | Step: 2200 out of 3239 | Loss: 0.58736
+Epoch: 4 | Step: 2400 out of 3239 | Loss: 0.58689
+Epoch: 4 | Step: 2600 out of 3239 | Loss: 0.58607
+Epoch: 4 | Step: 2800 out of 3239 | Loss: 0.58623
+Epoch: 4 | Step: 3000 out of 3239 | Loss: 0.58587
+Epoch: 4 | Step: 3200 out of 3239 | Loss: 0.58589
+=========================================================================================
+Epoch: 4 | Validation Loss: 0.61082 | Validation Accuracy: 0.67
+=========================================================================================
+Epoch: 5 | Step: 200 out of 3239 | Loss: 0.58031
+Epoch: 5 | Step: 400 out of 3239 | Loss: 0.57838
+Epoch: 5 | Step: 600 out of 3239 | Loss: 0.58018
+Epoch: 5 | Step: 800 out of 3239 | Loss: 0.57842
+Epoch: 5 | Step: 1000 out of 3239 | Loss: 0.57893
+Epoch: 5 | Step: 1200 out of 3239 | Loss: 0.57762
+Epoch: 5 | Step: 1400 out of 3239 | Loss: 0.57654
+Epoch: 5 | Step: 1600 out of 3239 | Loss: 0.57601
+Epoch: 5 | Step: 1800 out of 3239 | Loss: 0.57579
+Epoch: 5 | Step: 2000 out of 3239 | Loss: 0.57619
+Epoch: 5 | Step: 2200 out of 3239 | Loss: 0.57642
+Epoch: 5 | Step: 2400 out of 3239 | Loss: 0.57661
+Epoch: 5 | Step: 2600 out of 3239 | Loss: 0.57661
+Epoch: 5 | Step: 2800 out of 3239 | Loss: 0.57657
+Epoch: 5 | Step: 3000 out of 3239 | Loss: 0.57623
+Epoch: 5 | Step: 3200 out of 3239 | Loss: 0.57625
+=========================================================================================
+Epoch: 5 | Validation Loss: 0.61090 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 6 | Step: 200 out of 3239 | Loss: 0.57176
+Epoch: 6 | Step: 400 out of 3239 | Loss: 0.57061
+Epoch: 6 | Step: 600 out of 3239 | Loss: 0.56973
+Epoch: 0 | Step: 200 out of 3239 | Loss: 0.69809
+Epoch: 0 | Step: 400 out of 3239 | Loss: 0.69281
+Epoch: 0 | Step: 600 out of 3239 | Loss: 0.69071
+Epoch: 0 | Step: 800 out of 3239 | Loss: 0.68552
+Epoch: 0 | Step: 1000 out of 3239 | Loss: 0.68076
+Epoch: 0 | Step: 1200 out of 3239 | Loss: 0.67639
+Epoch: 0 | Step: 1400 out of 3239 | Loss: 0.67159
+Epoch: 0 | Step: 1600 out of 3239 | Loss: 0.66791
+Epoch: 0 | Step: 1800 out of 3239 | Loss: 0.66419
+Epoch: 0 | Step: 2000 out of 3239 | Loss: 0.66125
+Epoch: 0 | Step: 2200 out of 3239 | Loss: 0.65850
+Epoch: 0 | Step: 2400 out of 3239 | Loss: 0.65598
+Epoch: 0 | Step: 2600 out of 3239 | Loss: 0.65389
+Epoch: 0 | Step: 2800 out of 3239 | Loss: 0.65132
+Epoch: 0 | Step: 3000 out of 3239 | Loss: 0.64959
+Epoch: 0 | Step: 3200 out of 3239 | Loss: 0.64808
+=========================================================================================
+Epoch: 0 | Validation Loss: 0.62415 | Validation Accuracy: 0.65
+=========================================================================================
+saving best model...
+Epoch: 1 | Step: 200 out of 3239 | Loss: 0.62542
+Epoch: 1 | Step: 400 out of 3239 | Loss: 0.62380
+Epoch: 1 | Step: 600 out of 3239 | Loss: 0.61980
+Epoch: 1 | Step: 800 out of 3239 | Loss: 0.61874
+Epoch: 1 | Step: 1000 out of 3239 | Loss: 0.61690
+Epoch: 1 | Step: 1200 out of 3239 | Loss: 0.61556
+Epoch: 1 | Step: 1400 out of 3239 | Loss: 0.61527
+Epoch: 1 | Step: 1600 out of 3239 | Loss: 0.61604
+Epoch: 1 | Step: 1800 out of 3239 | Loss: 0.61528
+Epoch: 1 | Step: 2000 out of 3239 | Loss: 0.61460
+Epoch: 1 | Step: 2200 out of 3239 | Loss: 0.61445
+Epoch: 1 | Step: 2400 out of 3239 | Loss: 0.61362
+Epoch: 1 | Step: 2600 out of 3239 | Loss: 0.61284
+Epoch: 1 | Step: 2800 out of 3239 | Loss: 0.61275
+Epoch: 1 | Step: 3000 out of 3239 | Loss: 0.61255
+Epoch: 1 | Step: 3200 out of 3239 | Loss: 0.61228
+=========================================================================================
+Epoch: 1 | Validation Loss: 0.61067 | Validation Accuracy: 0.67
+=========================================================================================
+saving best model...
+Epoch: 2 | Step: 200 out of 3239 | Loss: 0.60583
+Epoch: 2 | Step: 400 out of 3239 | Loss: 0.60344
+Epoch: 2 | Step: 600 out of 3239 | Loss: 0.60474
+Epoch: 2 | Step: 800 out of 3239 | Loss: 0.60468
+Epoch: 2 | Step: 1000 out of 3239 | Loss: 0.60294
+Epoch: 2 | Step: 1200 out of 3239 | Loss: 0.60373
+Epoch: 2 | Step: 1400 out of 3239 | Loss: 0.60312
+Epoch: 2 | Step: 1600 out of 3239 | Loss: 0.60388
+Epoch: 2 | Step: 1800 out of 3239 | Loss: 0.60252
+Epoch: 2 | Step: 2000 out of 3239 | Loss: 0.60225
+Epoch: 2 | Step: 2200 out of 3239 | Loss: 0.60239
+Epoch: 2 | Step: 2400 out of 3239 | Loss: 0.60238
+Epoch: 2 | Step: 2600 out of 3239 | Loss: 0.60224
+Epoch: 2 | Step: 2800 out of 3239 | Loss: 0.60169
+Epoch: 2 | Step: 3000 out of 3239 | Loss: 0.60127
+Epoch: 2 | Step: 3200 out of 3239 | Loss: 0.60103
+=========================================================================================
+Epoch: 2 | Validation Loss: 0.60951 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 3 | Step: 200 out of 3239 | Loss: 0.59084
+Epoch: 3 | Step: 400 out of 3239 | Loss: 0.59090
+Epoch: 3 | Step: 600 out of 3239 | Loss: 0.59039
+Epoch: 3 | Step: 800 out of 3239 | Loss: 0.59356
+Epoch: 3 | Step: 1000 out of 3239 | Loss: 0.59368
+Epoch: 3 | Step: 1200 out of 3239 | Loss: 0.59392
+Epoch: 3 | Step: 1400 out of 3239 | Loss: 0.59449
+Epoch: 3 | Step: 1600 out of 3239 | Loss: 0.59504
+Epoch: 3 | Step: 1800 out of 3239 | Loss: 0.59384
+Epoch: 3 | Step: 2000 out of 3239 | Loss: 0.59357
+Epoch: 3 | Step: 2200 out of 3239 | Loss: 0.59324
+Epoch: 3 | Step: 2400 out of 3239 | Loss: 0.59369
+Epoch: 3 | Step: 2600 out of 3239 | Loss: 0.59394
+Epoch: 3 | Step: 2800 out of 3239 | Loss: 0.59379
+Epoch: 3 | Step: 3000 out of 3239 | Loss: 0.59356
+Epoch: 3 | Step: 3200 out of 3239 | Loss: 0.59322
+=========================================================================================
+Epoch: 3 | Validation Loss: 0.60948 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 4 | Step: 200 out of 3239 | Loss: 0.59491
+Epoch: 4 | Step: 400 out of 3239 | Loss: 0.59289
+Epoch: 4 | Step: 600 out of 3239 | Loss: 0.59348
+Epoch: 4 | Step: 800 out of 3239 | Loss: 0.59047
+Epoch: 4 | Step: 1000 out of 3239 | Loss: 0.58871
+Epoch: 4 | Step: 1200 out of 3239 | Loss: 0.58887
+Epoch: 4 | Step: 1400 out of 3239 | Loss: 0.58790
+Epoch: 4 | Step: 1600 out of 3239 | Loss: 0.58759
+Epoch: 4 | Step: 1800 out of 3239 | Loss: 0.58783
+Epoch: 4 | Step: 2000 out of 3239 | Loss: 0.58796
+Epoch: 4 | Step: 2200 out of 3239 | Loss: 0.58736
+Epoch: 4 | Step: 2400 out of 3239 | Loss: 0.58689
+Epoch: 4 | Step: 2600 out of 3239 | Loss: 0.58607
+Epoch: 0 | Step: 200 out of 3239 | Loss: 0.70201
+Epoch: 0 | Step: 400 out of 3239 | Loss: 0.69957
+Epoch: 0 | Step: 600 out of 3239 | Loss: 0.69734
+Epoch: 0 | Step: 800 out of 3239 | Loss: 0.69503
+Epoch: 0 | Step: 1000 out of 3239 | Loss: 0.69325
+Epoch: 0 | Step: 1200 out of 3239 | Loss: 0.69272
+Epoch: 0 | Step: 1400 out of 3239 | Loss: 0.69208
+Epoch: 0 | Step: 1600 out of 3239 | Loss: 0.69192
+Epoch: 0 | Step: 1800 out of 3239 | Loss: 0.69122
+Epoch: 0 | Step: 2000 out of 3239 | Loss: 0.68989
+Epoch: 0 | Step: 2200 out of 3239 | Loss: 0.68825
+Epoch: 0 | Step: 2400 out of 3239 | Loss: 0.68639
+Epoch: 0 | Step: 2600 out of 3239 | Loss: 0.68460
+Epoch: 0 | Step: 2800 out of 3239 | Loss: 0.68283
+Epoch: 0 | Step: 3000 out of 3239 | Loss: 0.68124
+Epoch: 0 | Step: 3200 out of 3239 | Loss: 0.67995
+=========================================================================================
+Epoch: 0 | Validation Loss: 0.65771 | Validation Accuracy: 0.62
+=========================================================================================
+saving best model...
+Epoch: 1 | Step: 200 out of 3239 | Loss: 0.65871
+Epoch: 1 | Step: 400 out of 3239 | Loss: 0.65548
+Epoch: 1 | Step: 600 out of 3239 | Loss: 0.65146
+Epoch: 1 | Step: 800 out of 3239 | Loss: 0.64794
+Epoch: 1 | Step: 1000 out of 3239 | Loss: 0.64546
+Epoch: 1 | Step: 1200 out of 3239 | Loss: 0.64357
+Epoch: 1 | Step: 1400 out of 3239 | Loss: 0.64253
+Epoch: 1 | Step: 1600 out of 3239 | Loss: 0.64302
+Epoch: 1 | Step: 1800 out of 3239 | Loss: 0.64269
+Epoch: 1 | Step: 2000 out of 3239 | Loss: 0.64182
+Epoch: 1 | Step: 2200 out of 3239 | Loss: 0.64074
+Epoch: 1 | Step: 2400 out of 3239 | Loss: 0.63918
+Epoch: 1 | Step: 2600 out of 3239 | Loss: 0.63810
+Epoch: 1 | Step: 2800 out of 3239 | Loss: 0.63779
+Epoch: 1 | Step: 3000 out of 3239 | Loss: 0.63795
+Epoch: 1 | Step: 3200 out of 3239 | Loss: 0.63797
+=========================================================================================
+Epoch: 1 | Validation Loss: 0.62823 | Validation Accuracy: 0.66
+=========================================================================================
+saving best model...
+Epoch: 2 | Step: 200 out of 3239 | Loss: 0.63393
+Epoch: 2 | Step: 400 out of 3239 | Loss: 0.62551
+Epoch: 2 | Step: 600 out of 3239 | Loss: 0.62475
+Epoch: 2 | Step: 800 out of 3239 | Loss: 0.62596
+Epoch: 2 | Step: 1000 out of 3239 | Loss: 0.62556
+Epoch: 2 | Step: 1200 out of 3239 | Loss: 0.62756
+Epoch: 2 | Step: 1400 out of 3239 | Loss: 0.62705
+Epoch: 2 | Step: 1600 out of 3239 | Loss: 0.62702
+Epoch: 2 | Step: 1800 out of 3239 | Loss: 0.62536
+Epoch: 2 | Step: 2000 out of 3239 | Loss: 0.62468
+Epoch: 2 | Step: 2200 out of 3239 | Loss: 0.62483
+Epoch: 2 | Step: 2400 out of 3239 | Loss: 0.62470
+Epoch: 2 | Step: 2600 out of 3239 | Loss: 0.62531
+Epoch: 2 | Step: 2800 out of 3239 | Loss: 0.62540
+Epoch: 2 | Step: 3000 out of 3239 | Loss: 0.62514
+Epoch: 2 | Step: 3200 out of 3239 | Loss: 0.62473
+=========================================================================================
+Epoch: 2 | Validation Loss: 0.62322 | Validation Accuracy: 0.65
+=========================================================================================
+Epoch: 3 | Step: 200 out of 3239 | Loss: 0.61510
+Epoch: 3 | Step: 400 out of 3239 | Loss: 0.61589
+Epoch: 3 | Step: 600 out of 3239 | Loss: 0.61744
+Epoch: 3 | Step: 800 out of 3239 | Loss: 0.61997
+Epoch: 0 | Step: 200 out of 3239 | Loss: 0.69716
+Epoch: 0 | Step: 400 out of 3239 | Loss: 0.69193
+Epoch: 0 | Step: 600 out of 3239 | Loss: 0.68977
+Epoch: 0 | Step: 800 out of 3239 | Loss: 0.68437
+Epoch: 0 | Step: 1000 out of 3239 | Loss: 0.67922
+Epoch: 0 | Step: 1200 out of 3239 | Loss: 0.67480
+Epoch: 0 | Step: 1400 out of 3239 | Loss: 0.66982
+Epoch: 0 | Step: 1600 out of 3239 | Loss: 0.66614
+Epoch: 0 | Step: 1800 out of 3239 | Loss: 0.66226
+Epoch: 0 | Step: 2000 out of 3239 | Loss: 0.65936
+Epoch: 0 | Step: 2200 out of 3239 | Loss: 0.65644
+Epoch: 0 | Step: 2400 out of 3239 | Loss: 0.65405
+Epoch: 0 | Step: 2600 out of 3239 | Loss: 0.65184
+Epoch: 0 | Step: 2800 out of 3239 | Loss: 0.64945
+Epoch: 0 | Step: 3000 out of 3239 | Loss: 0.64775
+Epoch: 0 | Step: 3200 out of 3239 | Loss: 0.64627
+=========================================================================================
+Epoch: 0 | Validation Loss: 0.62794 | Validation Accuracy: 0.64
+=========================================================================================
+saving best model...
+Epoch: 1 | Step: 200 out of 3239 | Loss: 0.62543
+Epoch: 1 | Step: 400 out of 3239 | Loss: 0.62147
+Epoch: 1 | Step: 600 out of 3239 | Loss: 0.61769
+Epoch: 1 | Step: 800 out of 3239 | Loss: 0.61665
+Epoch: 1 | Step: 1000 out of 3239 | Loss: 0.61433
+Epoch: 1 | Step: 1200 out of 3239 | Loss: 0.61330
+Epoch: 1 | Step: 1400 out of 3239 | Loss: 0.61336
+Epoch: 1 | Step: 1600 out of 3239 | Loss: 0.61373
+Epoch: 1 | Step: 1800 out of 3239 | Loss: 0.61277
+Epoch: 1 | Step: 2000 out of 3239 | Loss: 0.61246
+Epoch: 1 | Step: 2200 out of 3239 | Loss: 0.61234
+Epoch: 1 | Step: 2400 out of 3239 | Loss: 0.61132
+Epoch: 1 | Step: 2600 out of 3239 | Loss: 0.61074
+Epoch: 1 | Step: 2800 out of 3239 | Loss: 0.61088
+Epoch: 1 | Step: 3000 out of 3239 | Loss: 0.61046
+Epoch: 1 | Step: 3200 out of 3239 | Loss: 0.61003
+=========================================================================================
+Epoch: 1 | Validation Loss: 0.61128 | Validation Accuracy: 0.66
+=========================================================================================
+saving best model...
+Epoch: 2 | Step: 200 out of 3239 | Loss: 0.60508
+Epoch: 2 | Step: 400 out of 3239 | Loss: 0.60225
+Epoch: 2 | Step: 600 out of 3239 | Loss: 0.60248
+Epoch: 2 | Step: 800 out of 3239 | Loss: 0.60220
+Epoch: 2 | Step: 1000 out of 3239 | Loss: 0.60112
+Epoch: 2 | Step: 1200 out of 3239 | Loss: 0.60218
+Epoch: 2 | Step: 1400 out of 3239 | Loss: 0.60127
+Epoch: 2 | Step: 1600 out of 3239 | Loss: 0.60153
+Epoch: 2 | Step: 1800 out of 3239 | Loss: 0.60049
+Epoch: 2 | Step: 2000 out of 3239 | Loss: 0.60057
+Epoch: 2 | Step: 2200 out of 3239 | Loss: 0.60063
+Epoch: 2 | Step: 2400 out of 3239 | Loss: 0.60021
+Epoch: 2 | Step: 2600 out of 3239 | Loss: 0.60004
+Epoch: 2 | Step: 2800 out of 3239 | Loss: 0.59968
+Epoch: 2 | Step: 3000 out of 3239 | Loss: 0.59932
+Epoch: 2 | Step: 3200 out of 3239 | Loss: 0.59886
+=========================================================================================
+Epoch: 2 | Validation Loss: 0.60702 | Validation Accuracy: 0.67
+=========================================================================================
+saving best model...
+Epoch: 3 | Step: 200 out of 3239 | Loss: 0.58624
+Epoch: 3 | Step: 400 out of 3239 | Loss: 0.58985
+Epoch: 3 | Step: 600 out of 3239 | Loss: 0.59037
+Epoch: 3 | Step: 800 out of 3239 | Loss: 0.59232
+Epoch: 3 | Step: 1000 out of 3239 | Loss: 0.59185
+Epoch: 3 | Step: 1200 out of 3239 | Loss: 0.59230
+Epoch: 3 | Step: 1400 out of 3239 | Loss: 0.59295
+Epoch: 3 | Step: 1600 out of 3239 | Loss: 0.59333
+Epoch: 3 | Step: 1800 out of 3239 | Loss: 0.59173
+Epoch: 3 | Step: 2000 out of 3239 | Loss: 0.59134
+Epoch: 3 | Step: 2200 out of 3239 | Loss: 0.59128
+Epoch: 3 | Step: 2400 out of 3239 | Loss: 0.59168
+Epoch: 3 | Step: 2600 out of 3239 | Loss: 0.59150
+Epoch: 3 | Step: 2800 out of 3239 | Loss: 0.59097
+Epoch: 3 | Step: 3000 out of 3239 | Loss: 0.59098
+Epoch: 3 | Step: 3200 out of 3239 | Loss: 0.59096
+=========================================================================================
+Epoch: 3 | Validation Loss: 0.61067 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 4 | Step: 200 out of 3239 | Loss: 0.59060
+Epoch: 4 | Step: 400 out of 3239 | Loss: 0.58780
+Epoch: 4 | Step: 600 out of 3239 | Loss: 0.58874
+Epoch: 4 | Step: 800 out of 3239 | Loss: 0.58684
+Epoch: 4 | Step: 1000 out of 3239 | Loss: 0.58572
+Epoch: 4 | Step: 1200 out of 3239 | Loss: 0.58568
+Epoch: 4 | Step: 1400 out of 3239 | Loss: 0.58460
+Epoch: 4 | Step: 1600 out of 3239 | Loss: 0.58419
+Epoch: 4 | Step: 1800 out of 3239 | Loss: 0.58440
+Epoch: 4 | Step: 2000 out of 3239 | Loss: 0.58475
+Epoch: 4 | Step: 2200 out of 3239 | Loss: 0.58441
+Epoch: 4 | Step: 2400 out of 3239 | Loss: 0.58421
+Epoch: 4 | Step: 2600 out of 3239 | Loss: 0.58357
+Epoch: 4 | Step: 2800 out of 3239 | Loss: 0.58370
+Epoch: 4 | Step: 3000 out of 3239 | Loss: 0.58327
+Epoch: 4 | Step: 3200 out of 3239 | Loss: 0.58321
+=========================================================================================
+Epoch: 4 | Validation Loss: 0.60970 | Validation Accuracy: 0.67
+=========================================================================================
+Epoch: 5 | Step: 200 out of 3239 | Loss: 0.57801
+Epoch: 5 | Step: 400 out of 3239 | Loss: 0.57774
+Epoch: 5 | Step: 600 out of 3239 | Loss: 0.57884
+Epoch: 5 | Step: 800 out of 3239 | Loss: 0.57776
+Epoch: 5 | Step: 1000 out of 3239 | Loss: 0.57757
+Epoch: 5 | Step: 1200 out of 3239 | Loss: 0.57632
+Epoch: 5 | Step: 1400 out of 3239 | Loss: 0.57561
+Epoch: 5 | Step: 1600 out of 3239 | Loss: 0.57508
+Epoch: 5 | Step: 1800 out of 3239 | Loss: 0.57471
+Epoch: 5 | Step: 2000 out of 3239 | Loss: 0.57542
+Epoch: 5 | Step: 2200 out of 3239 | Loss: 0.57555
+Epoch: 5 | Step: 2400 out of 3239 | Loss: 0.57597
+Epoch: 5 | Step: 2600 out of 3239 | Loss: 0.57616
+Epoch: 5 | Step: 2800 out of 3239 | Loss: 0.57640
+Epoch: 5 | Step: 3000 out of 3239 | Loss: 0.57604
+Epoch: 5 | Step: 3200 out of 3239 | Loss: 0.57632
+=========================================================================================
+Epoch: 5 | Validation Loss: 0.61196 | Validation Accuracy: 0.67
+=========================================================================================
+Epoch: 6 | Step: 200 out of 3239 | Loss: 0.57307
+Epoch: 6 | Step: 400 out of 3239 | Loss: 0.57261
+Epoch: 6 | Step: 600 out of 3239 | Loss: 0.57266
+Epoch: 6 | Step: 800 out of 3239 | Loss: 0.57521
+Epoch: 6 | Step: 1000 out of 3239 | Loss: 0.57403
+Epoch: 6 | Step: 1200 out of 3239 | Loss: 0.57318
+Epoch: 6 | Step: 1400 out of 3239 | Loss: 0.57320
+Epoch: 6 | Step: 1600 out of 3239 | Loss: 0.57233
+Epoch: 6 | Step: 1800 out of 3239 | Loss: 0.57232
+Epoch: 6 | Step: 2000 out of 3239 | Loss: 0.57073
+Epoch: 6 | Step: 2200 out of 3239 | Loss: 0.57012
+Epoch: 6 | Step: 2400 out of 3239 | Loss: 0.56977
+Epoch: 6 | Step: 2600 out of 3239 | Loss: 0.57002
+Epoch: 6 | Step: 2800 out of 3239 | Loss: 0.56983
+Epoch: 6 | Step: 3000 out of 3239 | Loss: 0.57003
+Epoch: 6 | Step: 3200 out of 3239 | Loss: 0.57038
+=========================================================================================
+Epoch: 6 | Validation Loss: 0.61022 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 7 | Step: 200 out of 3239 | Loss: 0.56636
+Epoch: 7 | Step: 400 out of 3239 | Loss: 0.56735
+Epoch: 7 | Step: 600 out of 3239 | Loss: 0.56729
+Epoch: 7 | Step: 800 out of 3239 | Loss: 0.56819
+Epoch: 7 | Step: 1000 out of 3239 | Loss: 0.56748
+Epoch: 7 | Step: 1200 out of 3239 | Loss: 0.56718
+Epoch: 7 | Step: 1400 out of 3239 | Loss: 0.56706
+Epoch: 7 | Step: 1600 out of 3239 | Loss: 0.56702
+Epoch: 7 | Step: 1800 out of 3239 | Loss: 0.56720
+Epoch: 7 | Step: 2000 out of 3239 | Loss: 0.56729
+Epoch: 7 | Step: 2200 out of 3239 | Loss: 0.56703
+Epoch: 7 | Step: 2400 out of 3239 | Loss: 0.56686
+Epoch: 7 | Step: 2600 out of 3239 | Loss: 0.56685
+Epoch: 7 | Step: 2800 out of 3239 | Loss: 0.56639
+Epoch: 7 | Step: 3000 out of 3239 | Loss: 0.56631
+Epoch: 7 | Step: 3200 out of 3239 | Loss: 0.56640
+=========================================================================================
+Epoch: 7 | Validation Loss: 0.61143 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 8 | Step: 200 out of 3239 | Loss: 0.56475
+Epoch: 8 | Step: 400 out of 3239 | Loss: 0.56624
+Epoch: 8 | Step: 600 out of 3239 | Loss: 0.56436
+Epoch: 8 | Step: 800 out of 3239 | Loss: 0.56452
+Epoch: 8 | Step: 1000 out of 3239 | Loss: 0.56466
+Epoch: 8 | Step: 1200 out of 3239 | Loss: 0.56473
+Epoch: 8 | Step: 1400 out of 3239 | Loss: 0.56475
+Epoch: 8 | Step: 1600 out of 3239 | Loss: 0.56543
+Epoch: 8 | Step: 1800 out of 3239 | Loss: 0.56546
+Epoch: 8 | Step: 2000 out of 3239 | Loss: 0.56537
+Epoch: 8 | Step: 2200 out of 3239 | Loss: 0.56504
+Epoch: 0 | Step: 200 out of 3239 | Loss: 0.72814
+Epoch: 0 | Step: 400 out of 3239 | Loss: 0.71253
+Epoch: 0 | Step: 600 out of 3239 | Loss: 0.70350
+Epoch: 0 | Step: 800 out of 3239 | Loss: 0.70395
+Epoch: 0 | Step: 1000 out of 3239 | Loss: 0.70546
+Epoch: 0 | Step: 1200 out of 3239 | Loss: 0.70351
+Epoch: 0 | Step: 1400 out of 3239 | Loss: 0.69908
+Epoch: 0 | Step: 1600 out of 3239 | Loss: 0.69565
+Epoch: 0 | Step: 1800 out of 3239 | Loss: 0.69406
+Epoch: 0 | Step: 2000 out of 3239 | Loss: 0.69376
+Epoch: 0 | Step: 2200 out of 3239 | Loss: 0.69294
+Epoch: 0 | Step: 2400 out of 3239 | Loss: 0.69084
+Epoch: 0 | Step: 2600 out of 3239 | Loss: 0.68799
+Epoch: 0 | Step: 2800 out of 3239 | Loss: 0.68538
+Epoch: 0 | Step: 3000 out of 3239 | Loss: 0.68415
+Epoch: 0 | Step: 3200 out of 3239 | Loss: 0.68363
+=========================================================================================
+Epoch: 0 | Validation Loss: 0.66073 | Validation Accuracy: 0.60
+=========================================================================================
+saving best model...
+Epoch: 1 | Step: 200 out of 3239 | Loss: 0.65626
+Epoch: 1 | Step: 400 out of 3239 | Loss: 0.64590
+Epoch: 1 | Step: 600 out of 3239 | Loss: 0.64497
+Epoch: 1 | Step: 800 out of 3239 | Loss: 0.64813
+Epoch: 1 | Step: 1000 out of 3239 | Loss: 0.65107
+Epoch: 1 | Step: 1200 out of 3239 | Loss: 0.65015
+Epoch: 1 | Step: 1400 out of 3239 | Loss: 0.64720
+Epoch: 1 | Step: 1600 out of 3239 | Loss: 0.64547
+Epoch: 1 | Step: 1800 out of 3239 | Loss: 0.64383
+Epoch: 1 | Step: 2000 out of 3239 | Loss: 0.64337
+Epoch: 1 | Step: 2200 out of 3239 | Loss: 0.64370
+Epoch: 1 | Step: 2400 out of 3239 | Loss: 0.64359
+Epoch: 1 | Step: 2600 out of 3239 | Loss: 0.64232
+Epoch: 1 | Step: 2800 out of 3239 | Loss: 0.64102
+Epoch: 1 | Step: 3000 out of 3239 | Loss: 0.63977
+Epoch: 1 | Step: 3200 out of 3239 | Loss: 0.63963
+=========================================================================================
+Epoch: 1 | Validation Loss: 0.64228 | Validation Accuracy: 0.63
+=========================================================================================
+saving best model...
+Epoch: 2 | Step: 200 out of 3239 | Loss: 0.63734
+Epoch: 2 | Step: 400 out of 3239 | Loss: 0.63555
+Epoch: 2 | Step: 600 out of 3239 | Loss: 0.63006
+Epoch: 2 | Step: 800 out of 3239 | Loss: 0.62678
+Epoch: 2 | Step: 1000 out of 3239 | Loss: 0.62606
+Epoch: 2 | Step: 1200 out of 3239 | Loss: 0.62692
+Epoch: 2 | Step: 1400 out of 3239 | Loss: 0.62923
+Epoch: 2 | Step: 1600 out of 3239 | Loss: 0.62943
+Epoch: 2 | Step: 1800 out of 3239 | Loss: 0.62856
+Epoch: 2 | Step: 2000 out of 3239 | Loss: 0.62749
+Epoch: 2 | Step: 2200 out of 3239 | Loss: 0.62677
+Epoch: 2 | Step: 2400 out of 3239 | Loss: 0.62721
+Epoch: 2 | Step: 2600 out of 3239 | Loss: 0.62780
+Epoch: 2 | Step: 2800 out of 3239 | Loss: 0.62801
+Epoch: 2 | Step: 3000 out of 3239 | Loss: 0.62758
+Epoch: 2 | Step: 3200 out of 3239 | Loss: 0.62652
+=========================================================================================
+Epoch: 2 | Validation Loss: 0.61525 | Validation Accuracy: 0.66
+=========================================================================================
+saving best model...
+Epoch: 3 | Step: 200 out of 3239 | Loss: 0.61553
+Epoch: 3 | Step: 400 out of 3239 | Loss: 0.61678
+Epoch: 3 | Step: 600 out of 3239 | Loss: 0.62613
+Epoch: 3 | Step: 800 out of 3239 | Loss: 0.62691
+Epoch: 3 | Step: 1000 out of 3239 | Loss: 0.62679
+Epoch: 3 | Step: 1200 out of 3239 | Loss: 0.62410
+Epoch: 3 | Step: 1400 out of 3239 | Loss: 0.62123
+Epoch: 3 | Step: 1600 out of 3239 | Loss: 0.61999
+Epoch: 3 | Step: 1800 out of 3239 | Loss: 0.61914
+Epoch: 3 | Step: 2000 out of 3239 | Loss: 0.61936
+Epoch: 3 | Step: 2200 out of 3239 | Loss: 0.61941
+Epoch: 3 | Step: 2400 out of 3239 | Loss: 0.61961
+Epoch: 3 | Step: 2600 out of 3239 | Loss: 0.61990
+Epoch: 3 | Step: 2800 out of 3239 | Loss: 0.62014
+Epoch: 3 | Step: 3000 out of 3239 | Loss: 0.61994
+Epoch: 3 | Step: 3200 out of 3239 | Loss: 0.62006
+=========================================================================================
+Epoch: 3 | Validation Loss: 0.62036 | Validation Accuracy: 0.65
+=========================================================================================
+Epoch: 4 | Step: 200 out of 3239 | Loss: 0.61035
+Epoch: 4 | Step: 400 out of 3239 | Loss: 0.60876
+Epoch: 4 | Step: 600 out of 3239 | Loss: 0.60947
+Epoch: 4 | Step: 800 out of 3239 | Loss: 0.61083
+Epoch: 4 | Step: 1000 out of 3239 | Loss: 0.61070
+Epoch: 4 | Step: 1200 out of 3239 | Loss: 0.61023
+Epoch: 4 | Step: 1400 out of 3239 | Loss: 0.61062
+Epoch: 4 | Step: 1600 out of 3239 | Loss: 0.61064
+Epoch: 4 | Step: 1800 out of 3239 | Loss: 0.61025
+Epoch: 4 | Step: 2000 out of 3239 | Loss: 0.61047
+Epoch: 4 | Step: 2200 out of 3239 | Loss: 0.61100
+Epoch: 4 | Step: 2400 out of 3239 | Loss: 0.61109
+Epoch: 4 | Step: 2600 out of 3239 | Loss: 0.61146
+Epoch: 4 | Step: 2800 out of 3239 | Loss: 0.61153
+Epoch: 4 | Step: 3000 out of 3239 | Loss: 0.61176
+Epoch: 4 | Step: 3200 out of 3239 | Loss: 0.61170
+=========================================================================================
+Epoch: 4 | Validation Loss: 0.61538 | Validation Accuracy: 0.65
+=========================================================================================
+Epoch: 5 | Step: 200 out of 3239 | Loss: 0.61494
+Epoch: 5 | Step: 400 out of 3239 | Loss: 0.61232
+Epoch: 5 | Step: 600 out of 3239 | Loss: 0.61046
+Epoch: 5 | Step: 800 out of 3239 | Loss: 0.60924
+Epoch: 5 | Step: 1000 out of 3239 | Loss: 0.60797
+Epoch: 5 | Step: 1200 out of 3239 | Loss: 0.60811
+Epoch: 5 | Step: 1400 out of 3239 | Loss: 0.60794
+Epoch: 5 | Step: 1600 out of 3239 | Loss: 0.60801
+Epoch: 5 | Step: 1800 out of 3239 | Loss: 0.60757
+Epoch: 5 | Step: 2000 out of 3239 | Loss: 0.60683
+Epoch: 5 | Step: 2200 out of 3239 | Loss: 0.60705
+Epoch: 5 | Step: 2400 out of 3239 | Loss: 0.60708
+Epoch: 5 | Step: 2600 out of 3239 | Loss: 0.60772
+Epoch: 5 | Step: 2800 out of 3239 | Loss: 0.60767
+Epoch: 5 | Step: 3000 out of 3239 | Loss: 0.60762
+Epoch: 5 | Step: 3200 out of 3239 | Loss: 0.60773
+=========================================================================================
+Epoch: 5 | Validation Loss: 0.61367 | Validation Accuracy: 0.66
+=========================================================================================
+Epoch: 6 | Step: 200 out of 3239 | Loss: 0.60598
+Epoch: 6 | Step: 400 out of 3239 | Loss: 0.60585
+Epoch: 6 | Step: 600 out of 3239 | Loss: 0.60725
+Epoch: 6 | Step: 800 out of 3239 | Loss: 0.60641
+Epoch: 6 | Step: 1000 out of 3239 | Loss: 0.60569
+Epoch: 6 | Step: 1200 out of 3239 | Loss: 0.60633
+Epoch: 0 | Step: 200 out of 3239 | Loss: 0.70416
+Epoch: 0 | Step: 400 out of 3239 | Loss: 0.70310
+Epoch: 0 | Step: 600 out of 3239 | Loss: 0.69470
+Epoch: 0 | Step: 800 out of 3239 | Loss: 0.68986
+Epoch: 0 | Step: 1000 out of 3239 | Loss: 0.68407
+Epoch: 0 | Step: 1200 out of 3239 | Loss: 0.67855
+Epoch: 0 | Step: 1400 out of 3239 | Loss: 0.67520
+Epoch: 0 | Step: 1600 out of 3239 | Loss: 0.67010
+Epoch: 0 | Step: 1800 out of 3239 | Loss: 0.66747
+Epoch: 0 | Step: 2000 out of 3239 | Loss: 0.66392
+Epoch: 0 | Step: 2200 out of 3239 | Loss: 0.66062
+Epoch: 0 | Step: 2400 out of 3239 | Loss: 0.65710
+Epoch: 0 | Step: 2600 out of 3239 | Loss: 0.65524
+Epoch: 0 | Step: 2800 out of 3239 | Loss: 0.65304
+Epoch: 0 | Step: 3000 out of 3239 | Loss: 0.65149
+Epoch: 0 | Step: 3200 out of 3239 | Loss: 0.64975
+=========================================================================================
+Epoch: 0 | Validation Loss: 0.63258 | Validation Accuracy: 0.66
+=========================================================================================
+saving best model...
+Epoch: 1 | Step: 200 out of 3239 | Loss: 0.62801
+Epoch: 1 | Step: 400 out of 3239 | Loss: 0.61920
+Epoch: 1 | Step: 600 out of 3239 | Loss: 0.62226
+Epoch: 0 | Step: 200 out of 3239 | Loss: 0.70416
+Epoch: 0 | Step: 400 out of 3239 | Loss: 0.70310
+Epoch: 0 | Step: 600 out of 3239 | Loss: 0.69470
+Epoch: 0 | Step: 800 out of 3239 | Loss: 0.68986
+Epoch: 0 | Step: 1000 out of 3239 | Loss: 0.68407
+Epoch: 0 | Step: 1200 out of 3239 | Loss: 0.67855
+Epoch: 0 | Step: 1400 out of 3239 | Loss: 0.67520
+Epoch: 0 | Step: 1600 out of 3239 | Loss: 0.67010
+Epoch: 0 | Step: 1800 out of 3239 | Loss: 0.66747
+Epoch: 0 | Step: 2000 out of 3239 | Loss: 0.66392
+Epoch: 0 | Step: 2200 out of 3239 | Loss: 0.66062
+Epoch: 0 | Step: 2400 out of 3239 | Loss: 0.65710
+Epoch: 0 | Step: 2600 out of 3239 | Loss: 0.65524
+Epoch: 0 | Step: 2800 out of 3239 | Loss: 0.65304
+Epoch: 0 | Step: 3000 out of 3239 | Loss: 0.65149
+Epoch: 0 | Step: 3200 out of 3239 | Loss: 0.64975
+Epoch: 0 | Step: 200 out of 1620 | Loss: 0.70406
+Epoch: 0 | Step: 400 out of 1620 | Loss: 0.70233
+Epoch: 0 | Step: 600 out of 1620 | Loss: 0.69364
+Epoch: 0 | Step: 800 out of 1620 | Loss: 0.68811
+Epoch: 0 | Step: 1000 out of 1620 | Loss: 0.68284
+Epoch: 0 | Step: 1200 out of 1620 | Loss: 0.67675
+Epoch: 0 | Step: 1400 out of 1620 | Loss: 0.67289
+Epoch: 0 | Step: 1600 out of 1620 | Loss: 0.66811
+=========================================================================================
+Epoch: 0 | Validation Loss: 0.64487 | Validation Accuracy: 0.61
+=========================================================================================
+saving best model...
+Epoch: 1 | Step: 200 out of 1620 | Loss: 0.63990
+Epoch: 1 | Step: 400 out of 1620 | Loss: 0.63559
+Epoch: 1 | Step: 600 out of 1620 | Loss: 0.63254
+Epoch: 1 | Step: 800 out of 1620 | Loss: 0.63124
+Epoch: 1 | Step: 1000 out of 1620 | Loss: 0.62900
+Epoch: 1 | Step: 1200 out of 1620 | Loss: 0.62797
+Epoch: 1 | Step: 1400 out of 1620 | Loss: 0.62656
+Epoch: 1 | Step: 1600 out of 1620 | Loss: 0.62613
+=========================================================================================
+Epoch: 1 | Validation Loss: 0.62966 | Validation Accuracy: 0.66
+=========================================================================================
+saving best model...
+Epoch: 2 | Step: 200 out of 1620 | Loss: 0.61528
+Epoch: 2 | Step: 400 out of 1620 | Loss: 0.61579
+Epoch: 2 | Step: 600 out of 1620 | Loss: 0.61694
+Epoch: 2 | Step: 800 out of 1620 | Loss: 0.61725
+Epoch: 2 | Step: 1000 out of 1620 | Loss: 0.61690
+Epoch: 2 | Step: 1200 out of 1620 | Loss: 0.61624
+Epoch: 2 | Step: 1400 out of 1620 | Loss: 0.61536
+Epoch: 2 | Step: 1600 out of 1620 | Loss: 0.61535
+=========================================================================================
+Epoch: 2 | Validation Loss: 0.61902 | Validation Accuracy: 0.64
+=========================================================================================
+Epoch: 3 | Step: 200 out of 1620 | Loss: 0.61130
+Epoch: 3 | Step: 400 out of 1620 | Loss: 0.61085
+Epoch: 3 | Step: 600 out of 1620 | Loss: 0.61016
+Epoch: 3 | Step: 800 out of 1620 | Loss: 0.60803
+Epoch: 3 | Step: 1000 out of 1620 | Loss: 0.60805
+Epoch: 3 | Step: 1200 out of 1620 | Loss: 0.60765
+Epoch: 3 | Step: 1400 out of 1620 | Loss: 0.60824
+Epoch: 3 | Step: 1600 out of 1620 | Loss: 0.60875
+=========================================================================================
+Epoch: 3 | Validation Loss: 0.61911 | Validation Accuracy: 0.66
+=========================================================================================
+saving best model...
+Epoch: 4 | Step: 200 out of 1620 | Loss: 0.60569
+Epoch: 4 | Step: 400 out of 1620 | Loss: 0.60656
+Epoch: 4 | Step: 600 out of 1620 | Loss: 0.60542
+Epoch: 4 | Step: 800 out of 1620 | Loss: 0.60577
+Epoch: 4 | Step: 1000 out of 1620 | Loss: 0.60531
+Epoch: 4 | Step: 1200 out of 1620 | Loss: 0.60548
+Epoch: 4 | Step: 1400 out of 1620 | Loss: 0.60547
+Epoch: 4 | Step: 1600 out of 1620 | Loss: 0.60621
+=========================================================================================
+Epoch: 4 | Validation Loss: 0.61868 | Validation Accuracy: 0.65
+=========================================================================================
+Epoch: 5 | Step: 200 out of 1620 | Loss: 0.61136
+Epoch: 5 | Step: 400 out of 1620 | Loss: 0.60752
+Epoch: 5 | Step: 600 out of 1620 | Loss: 0.60507
+Epoch: 5 | Step: 800 out of 1620 | Loss: 0.60476
+Epoch: 5 | Step: 1000 out of 1620 | Loss: 0.60382
+Epoch: 5 | Step: 1200 out of 1620 | Loss: 0.60396
+Epoch: 5 | Step: 1400 out of 1620 | Loss: 0.60478
+Epoch: 5 | Step: 1600 out of 1620 | Loss: 0.60455
+=========================================================================================
+Epoch: 5 | Validation Loss: 0.61222 | Validation Accuracy: 0.67
+=========================================================================================
+saving best model...
+Epoch: 6 | Step: 200 out of 1620 | Loss: 0.59968

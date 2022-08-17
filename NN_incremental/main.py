@@ -58,11 +58,11 @@ if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     ### Load data
-    train_loader, val_loader, test_loader, datatype_dict, recipient_dict, condition_dict = dataloader.create(
+    train_loader, val_loader, test_loader, datatype_dict, recipient_dict, condition_dict, nusers = dataloader.create(
         args.data, batchSize=args.batch_size, workers=0)
 
     ### Model
-    model = MLPmodel(args, len(datatype_dict.idx2obj), len(recipient_dict.idx2obj), len(condition_dict.idx2obj))
+    model = MLPmodel(args, len(datatype_dict.idx2obj), len(recipient_dict.idx2obj), len(condition_dict.idx2obj), nusers)
     model.to(device)
 
     ### Optimiser
@@ -117,3 +117,5 @@ if __name__ == "__main__":
             logging("saving best model...")
             torch.save(model.state_dict(), os.path.join(args.output, 'model.state_dict'))
             best_val_acc = total_val_corr / total_val_sample
+        else:
+            lr = lr / 2

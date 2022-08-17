@@ -1,0 +1,920 @@
+788,call assistant,advertising agencies,if you are notified,1
+788,banking,skills,if you are notified,1
+788,voice recording,your partner,no condition,1
+788,thermostat,law enforcement agencies,no condition,0
+788,thermostat,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+788,call assistant,advertising agencies,if the data is kept confidential,1
+788,call assistant,skills,if the data is anonymous,1
+788,banking,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+788,voice recording,advertising agencies,if the data is kept confidential,1
+788,sleep hours,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+788,thermostat,advertising agencies,if you can delete or review the data,0
+788,voice recording,close family,no condition,1
+788,voice recording,skills,if you are notified,1
+788,voice recording,your children,no condition,1
+788,voice recording,your partner,no condition,1
+788,sleep hours,assistant provider,if the data is kept confidential,0
+788,call assistant,skills,if you can delete or review the data,1
+788,thermostat,advertising agencies,if the data is stored for as long as necessary for the purpose,0
+788,email,law enforcement agencies,if you can delete or review the data,0
+788,call assistant,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+788,banking,advertising agencies,if the data is kept confidential,1
+788,email,assistant provider,no condition,0
+788,banking,advertising agencies,if you are notified,1
+788,thermostat,neighbours,no condition,0
+788,thermostat,law enforcement agencies,if you are notified,0
+788,call assistant,advertising agencies,no condition,1
+788,sleep hours,skills,no condition,1
+788,voice recording,advertising agencies,if you can delete or review the data,0
+788,thermostat,advertising agencies,if you are notified,0
+788,sleep hours,assistant provider,if the data is anonymous,0
+788,banking,skills,if the data is stored for as long as necessary for the purpose,0
+788,thermostat,your siblings,no condition,0
+788,call assistant,skills,if the data is kept confidential,1
+788,voice recording,skills,if the data is kept confidential,1
+788,thermostat,advertising agencies,no condition,0
+788,voice recording,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+788,banking,skills,no condition,1
+788,voice recording,advertising agencies,if you are notified,1
+788,email,skills,no condition,1
+788,call assistant,skills,if you are notified,1
+788,email,assistant provider,if the data is stored for as long as necessary for the purpose,0
+788,email,assistant provider,if you are notified,0
+788,thermostat,skills,no condition,0
+788,voice recording,advertising agencies,if the data is anonymous,1
+788,voice recording,advertising agencies,no condition,1
+788,thermostat,skills,if the data is stored for as long as necessary for the purpose,0
+861,shopping,law enforcement agencies,no condition,1
+861,door locker,advertising agencies,no condition,1
+861,location,law enforcement agencies,if you can delete or review the data,0
+861,call assistant,your partner,no condition,0
+861,location,skills,no condition,1
+861,door locker,assistant provider,if the data is anonymous,1
+861,weather,assistant provider,if the data is anonymous,0
+861,weather,neighbours,no condition,0
+861,call assistant,house keeper/helper,no condition,1
+861,weather,your partner,no condition,0
+861,call assistant,visitors in general,no condition,1
+861,shopping,your housemates,no condition,1
+861,shopping,your children,no condition,0
+861,healthcare,skills,no condition,1
+861,weather,your friends,no condition,0
+861,weather,your partner,no condition,0
+861,door locker,neighbours,no condition,1
+861,door locker,visitors in general,no condition,1
+861,weather,visitors in general,no condition,0
+861,weather,your parents,no condition,0
+861,location,skills,if the data is kept confidential,1
+861,call assistant,neighbours,no condition,1
+861,weather,house keeper/helper,no condition,0
+861,call assistant,your siblings,no condition,0
+861,shopping,close family,no condition,1
+861,shopping,your parents,no condition,0
+861,weather,assistant provider,if the data is stored for as long as necessary for the purpose,0
+861,location,assistant provider,no condition,1
+861,location,skills,no condition,1
+861,call assistant,advertising agencies,if you can delete or review the data,1
+861,healthcare,assistant provider,no condition,0
+861,weather,your friends,no condition,0
+861,call assistant,your housemates,no condition,1
+861,location,skills,if you are notified,1
+861,healthcare,skills,if you can delete or review the data,0
+861,door locker,skills,no condition,0
+861,door locker,assistant provider,no condition,0
+861,door locker,your siblings,no condition,0
+861,door locker,advertising agencies,if you can delete or review the data,1
+861,shopping,visitors in general,no condition,1
+861,call assistant,advertising agencies,no condition,1
+861,shopping,your parents,no condition,1
+861,weather,your siblings,no condition,0
+861,weather,assistant provider,if you can delete or review the data,0
+861,location,assistant provider,if the data is stored for as long as necessary for the purpose,1
+861,door locker,assistant provider,no condition,1
+82,voice recording,advertising agencies,if the data is anonymous,1
+82,weather,neighbours,no condition,0
+82,location,close family,no condition,0
+82,weather,your housemates,no condition,0
+82,voice recording,visitors in general,no condition,1
+82,door locker,assistant provider,if the data is stored for as long as necessary for the purpose,1
+82,door locker,assistant provider,if you can delete or review the data,1
+82,location,visitors in general,no condition,0
+82,door locker,your housemates,no condition,1
+82,location,skills,if the data is stored for as long as necessary for the purpose,0
+82,voice recording,your partner,no condition,1
+82,playlists,advertising agencies,if the data is anonymous,1
+82,voice recording,law enforcement agencies,no condition,0
+82,playlists,skills,no condition,0
+82,door locker,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+82,weather,skills,no condition,0
+82,playlists,advertising agencies,if the data is kept confidential,1
+82,weather,law enforcement agencies,no condition,0
+82,location,skills,if the data is anonymous,0
+82,weather,your children,no condition,0
+82,weather,skills,if the data is anonymous,0
+82,location,your children,no condition,0
+82,weather,visitors in general,no condition,0
+82,weather,advertising agencies,no condition,0
+82,location,visitors in general,no condition,0
+82,weather,skills,if you are notified,0
+82,banking,advertising agencies,no condition,0
+82,location,assistant provider,if you can delete or review the data,0
+82,banking,skills,if you can delete or review the data,1
+82,location,your children,no condition,0
+82,banking,advertising agencies,if the data is anonymous,1
+82,door locker,skills,if the data is anonymous,0
+82,banking,law enforcement agencies,if the data is kept confidential,0
+82,playlists,skills,if the data is stored for as long as necessary for the purpose,0
+82,banking,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+82,playlists,advertising agencies,if you are notified,1
+82,banking,your friends,no condition,1
+82,banking,your children,no condition,1
+82,weather,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+82,location,assistant provider,if the data is kept confidential,0
+82,weather,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+82,location,your housemates,no condition,0
+82,door locker,law enforcement agencies,if you can delete or review the data,0
+82,banking,advertising agencies,if you can delete or review the data,1
+82,banking,skills,if the data is kept confidential,1
+82,location,your siblings,no condition,0
+530,thermostat,close family,no condition,0
+530,video call,skills,if you can delete or review the data,1
+530,sleep hours,house keeper/helper,no condition,1
+530,healthcare,your children,no condition,1
+530,healthcare,house keeper/helper,no condition,1
+530,thermostat,your parents,no condition,0
+530,healthcare,your friends,no condition,1
+530,call assistant,your friends,no condition,1
+530,thermostat,skills,if the data is stored for as long as necessary for the purpose,1
+530,video call,advertising agencies,if you are notified,1
+530,email,house keeper/helper,no condition,1
+530,healthcare,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+530,video call,advertising agencies,no condition,1
+530,call assistant,assistant provider,if you are notified,0
+530,call assistant,your children,no condition,1
+530,call assistant,law enforcement agencies,if the data is stored for as long as necessary for the purpose,1
+530,healthcare,your children,no condition,1
+530,video call,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+530,video call,house keeper/helper,no condition,0
+530,thermostat,your children,no condition,0
+530,video call,your partner,no condition,0
+530,sleep hours,law enforcement agencies,if the data is stored for as long as necessary for the purpose,1
+530,call assistant,law enforcement agencies,if you can delete or review the data,1
+530,call assistant,law enforcement agencies,if you are notified,1
+530,video call,your friends,no condition,0
+530,healthcare,advertising agencies,no condition,1
+530,email,assistant provider,if the data is kept confidential,1
+530,healthcare,your partner,no condition,0
+530,thermostat,law enforcement agencies,no condition,1
+530,email,skills,if the data is stored for as long as necessary for the purpose,1
+530,thermostat,advertising agencies,no condition,1
+530,call assistant,assistant provider,if the data is stored for as long as necessary for the purpose,0
+530,thermostat,skills,if the data is anonymous,1
+530,thermostat,skills,if you can delete or review the data,1
+530,sleep hours,law enforcement agencies,if you can delete or review the data,1
+530,call assistant,law enforcement agencies,if the data is kept confidential,1
+530,call assistant,law enforcement agencies,no condition,1
+530,healthcare,your parents,no condition,1
+530,video call,advertising agencies,no condition,1
+530,call assistant,your parents,no condition,1
+530,sleep hours,advertising agencies,no condition,1
+530,video call,neighbours,no condition,0
+530,thermostat,your partner,no condition,0
+530,email,advertising agencies,if the data is kept confidential,1
+530,healthcare,close family,no condition,1
+530,email,neighbours,no condition,1
+1047,location,assistant provider,if you are notified,1
+1047,sleep hours,advertising agencies,if the data is kept confidential,1
+1047,sleep hours,skills,if you are notified,1
+1047,camera,skills,if you are notified,1
+1047,sleep hours,skills,if the data is anonymous,1
+1047,camera,skills,if the data is stored for as long as necessary for the purpose,1
+1047,location,skills,if you are notified,0
+1047,healthcare,assistant provider,if the data is stored for as long as necessary for the purpose,1
+1047,sleep hours,skills,no condition,1
+1047,video call,your children,no condition,0
+1047,video call,law enforcement agencies,if the data is stored for as long as necessary for the purpose,1
+1047,sleep hours,house keeper/helper,no condition,1
+1047,camera,skills,no condition,1
+1047,camera,skills,if the data is anonymous,1
+1047,sleep hours,advertising agencies,if you can delete or review the data,1
+1047,camera,law enforcement agencies,if the data is anonymous,1
+1047,healthcare,house keeper/helper,no condition,1
+1047,video call,your friends,no condition,0
+1047,shopping,your parents,no condition,1
+1047,location,law enforcement agencies,if the data is anonymous,1
+1047,healthcare,your housemates,no condition,1
+1047,healthcare,close family,no condition,1
+1047,video call,your partner,no condition,0
+1047,shopping,skills,if you are notified,0
+1047,healthcare,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+1047,camera,law enforcement agencies,no condition,1
+1047,shopping,your housemates,no condition,1
+1047,shopping,your friends,no condition,1
+1047,video call,your siblings,no condition,0
+1047,healthcare,visitors in general,no condition,1
+1047,shopping,close family,no condition,1
+1047,shopping,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+1047,shopping,advertising agencies,if the data is kept confidential,1
+1047,healthcare,your parents,no condition,1
+1047,video call,house keeper/helper,no condition,1
+1047,shopping,visitors in general,no condition,1
+1047,healthcare,close family,no condition,1
+1047,sleep hours,advertising agencies,if you are notified,1
+1047,shopping,your friends,no condition,1
+1047,video call,close family,no condition,0
+1047,camera,skills,if you can delete or review the data,1
+1047,healthcare,your children,no condition,1
+1047,location,skills,if you can delete or review the data,0
+1047,shopping,your partner,no condition,1
+1047,shopping,advertising agencies,if you are notified,1
+1047,healthcare,your siblings,no condition,1
+995,sleep hours,advertising agencies,if you can delete or review the data,1
+995,playlists,advertising agencies,no condition,1
+995,playlists,advertising agencies,if you are notified,1
+995,banking,visitors in general,no condition,1
+995,playlists,skills,if the data is anonymous,1
+995,sleep hours,assistant provider,no condition,1
+995,video call,assistant provider,if you are notified,1
+995,location,skills,no condition,1
+995,camera,advertising agencies,no condition,1
+995,banking,law enforcement agencies,if the data is stored for as long as necessary for the purpose,1
+995,location,advertising agencies,if the data is kept confidential,1
+995,location,skills,no condition,1
+995,camera,your friends,no condition,1
+995,location,your partner,no condition,0
+995,camera,advertising agencies,if the data is anonymous,1
+995,sleep hours,assistant provider,if you are notified,1
+995,video call,law enforcement agencies,if you can delete or review the data,1
+995,location,skills,no condition,1
+995,banking,visitors in general,no condition,1
+995,camera,advertising agencies,if the data is kept confidential,1
+995,location,advertising agencies,if the data is anonymous,1
+995,playlists,skills,if the data is stored for as long as necessary for the purpose,1
+995,playlists,your partner,no condition,1
+995,camera,your partner,no condition,1
+995,location,your children,no condition,0
+995,camera,law enforcement agencies,if you can delete or review the data,1
+995,playlists,skills,no condition,1
+995,camera,neighbours,no condition,1
+995,playlists,your siblings,no condition,1
+995,banking,law enforcement agencies,if you can delete or review the data,1
+995,video call,advertising agencies,no condition,1
+995,playlists,advertising agencies,if the data is kept confidential,1
+995,location,skills,if the data is kept confidential,1
+995,sleep hours,assistant provider,if the data is anonymous,1
+995,camera,your children,no condition,1
+995,sleep hours,law enforcement agencies,if the data is anonymous,1
+995,playlists,your children,no condition,1
+995,banking,neighbours,no condition,1
+995,video call,skills,if the data is stored for as long as necessary for the purpose,1
+995,sleep hours,assistant provider,no condition,1
+995,sleep hours,law enforcement agencies,if the data is kept confidential,1
+995,banking,your siblings,no condition,1
+995,video call,law enforcement agencies,if you are notified,1
+995,camera,skills,if you can delete or review the data,1
+995,camera,your housemates,no condition,1
+995,location,assistant provider,no condition,1
+829,call assistant,assistant provider,if the data is stored for as long as necessary for the purpose,1
+829,video call,advertising agencies,no condition,1
+829,video call,your partner,no condition,1
+829,shopping,law enforcement agencies,no condition,0
+829,shopping,advertising agencies,no condition,0
+829,call assistant,skills,if you can delete or review the data,1
+829,email,skills,if the data is anonymous,1
+829,shopping,house keeper/helper,no condition,0
+829,thermostat,assistant provider,if the data is kept confidential,0
+829,thermostat,skills,no condition,0
+829,thermostat,skills,if the data is kept confidential,0
+829,email,skills,no condition,1
+829,call assistant,skills,if the data is kept confidential,1
+829,email,your children,no condition,1
+829,video call,advertising agencies,if the data is anonymous,1
+829,video call,advertising agencies,if you can delete or review the data,1
+829,call assistant,skills,if you are notified,1
+829,shopping,assistant provider,no condition,0
+829,thermostat,law enforcement agencies,no condition,0
+829,shopping,skills,no condition,0
+829,email,skills,if the data is stored for as long as necessary for the purpose,1
+829,call assistant,assistant provider,if you are notified,1
+829,banking,skills,if the data is stored for as long as necessary for the purpose,0
+829,call assistant,skills,if the data is stored for as long as necessary for the purpose,1
+829,email,your friends,no condition,1
+829,shopping,law enforcement agencies,no condition,0
+829,call assistant,law enforcement agencies,if you can delete or review the data,0
+829,email,neighbours,no condition,1
+829,video call,assistant provider,if the data is anonymous,1
+829,video call,law enforcement agencies,no condition,1
+829,shopping,visitors in general,no condition,0
+829,banking,assistant provider,if the data is anonymous,0
+829,call assistant,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+829,shopping,assistant provider,no condition,0
+829,video call,advertising agencies,no condition,1
+829,call assistant,law enforcement agencies,if you are notified,0
+829,banking,skills,if the data is kept confidential,0
+829,video call,your children,no condition,0
+829,banking,assistant provider,if you can delete or review the data,0
+829,thermostat,skills,no condition,0
+829,email,skills,if the data is anonymous,1
+829,email,assistant provider,if the data is stored for as long as necessary for the purpose,1
+829,banking,skills,if you can delete or review the data,0
+829,video call,house keeper/helper,no condition,0
+829,video call,skills,no condition,1
+829,banking,skills,if you can delete or review the data,0
+621,location,neighbours,no condition,0
+621,location,your children,no condition,0
+621,playlists,skills,if you are notified,0
+621,playlists,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+621,thermostat,skills,if the data is kept confidential,0
+621,thermostat,skills,no condition,1
+621,thermostat,law enforcement agencies,if the data is anonymous,0
+621,camera,visitors in general,no condition,1
+621,voice recording,advertising agencies,no condition,1
+621,banking,assistant provider,if you can delete or review the data,0
+621,playlists,skills,if you are notified,0
+621,location,your siblings,no condition,0
+621,location,advertising agencies,if you can delete or review the data,0
+621,thermostat,skills,if the data is anonymous,0
+621,camera,skills,if the data is stored for as long as necessary for the purpose,0
+621,banking,skills,if the data is kept confidential,0
+621,camera,skills,if the data is anonymous,0
+621,camera,neighbours,no condition,1
+621,banking,house keeper/helper,no condition,1
+621,thermostat,skills,if the data is stored for as long as necessary for the purpose,0
+621,thermostat,skills,if the data is anonymous,0
+621,banking,skills,if you are notified,0
+621,voice recording,your housemates,no condition,0
+621,location,assistant provider,if you can delete or review the data,0
+621,voice recording,advertising agencies,if you are notified,0
+621,banking,skills,if the data is stored for as long as necessary for the purpose,0
+621,location,your siblings,no condition,0
+621,thermostat,advertising agencies,if you can delete or review the data,0
+621,playlists,law enforcement agencies,no condition,0
+621,camera,skills,no condition,1
+621,playlists,law enforcement agencies,if you can delete or review the data,0
+621,playlists,law enforcement agencies,if you are notified,0
+621,location,assistant provider,if you are notified,0
+621,thermostat,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+621,playlists,advertising agencies,no condition,0
+621,thermostat,law enforcement agencies,no condition,0
+621,location,visitors in general,no condition,1
+621,voice recording,skills,if the data is stored for as long as necessary for the purpose,0
+621,voice recording,your friends,no condition,0
+621,playlists,skills,if the data is stored for as long as necessary for the purpose,0
+621,camera,your partner,no condition,0
+621,playlists,law enforcement agencies,no condition,0
+621,banking,skills,if the data is anonymous,0
+621,location,house keeper/helper,no condition,1
+621,camera,visitors in general,no condition,1
+621,camera,your friends,no condition,1
+976,todo,your partner,no condition,0
+976,healthcare,assistant provider,if the data is anonymous,1
+976,video call,law enforcement agencies,if you can delete or review the data,1
+976,todo,law enforcement agencies,if the data is anonymous,1
+976,sleep hours,skills,no condition,1
+976,sleep hours,advertising agencies,if the data is kept confidential,1
+976,todo,your siblings,no condition,0
+976,healthcare,visitors in general,no condition,1
+976,email,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+976,healthcare,your housemates,no condition,1
+976,healthcare,law enforcement agencies,if you can delete or review the data,1
+976,thermostat,law enforcement agencies,if you are notified,1
+976,todo,advertising agencies,if you can delete or review the data,1
+976,todo,skills,no condition,1
+976,email,law enforcement agencies,if the data is anonymous,1
+976,email,your siblings,no condition,1
+976,thermostat,skills,no condition,1
+976,thermostat,assistant provider,if the data is anonymous,1
+976,todo,your housemates,no condition,0
+976,todo,skills,if the data is kept confidential,1
+976,sleep hours,skills,if you can delete or review the data,0
+976,healthcare,skills,if you can delete or review the data,1
+976,thermostat,law enforcement agencies,no condition,1
+976,sleep hours,skills,no condition,1
+976,email,your housemates,no condition,1
+976,todo,law enforcement agencies,no condition,1
+976,todo,advertising agencies,if you are notified,1
+976,todo,advertising agencies,if the data is anonymous,1
+976,healthcare,your children,no condition,1
+976,sleep hours,advertising agencies,if you are notified,1
+976,video call,advertising agencies,no condition,1
+976,sleep hours,skills,if the data is stored for as long as necessary for the purpose,1
+976,email,skills,if you can delete or review the data,1
+976,sleep hours,skills,if the data is anonymous,1
+976,thermostat,skills,if the data is kept confidential,1
+976,video call,law enforcement agencies,no condition,1
+976,todo,advertising agencies,if the data is kept confidential,1
+976,todo,your siblings,no condition,0
+976,video call,neighbours,no condition,0
+976,email,advertising agencies,if the data is kept confidential,1
+976,healthcare,skills,no condition,1
+976,thermostat,skills,no condition,1
+976,video call,law enforcement agencies,if the data is kept confidential,1
+976,email,your friends,no condition,1
+976,thermostat,skills,if you can delete or review the data,0
+976,video call,law enforcement agencies,if you are notified,1
+733,call assistant,house keeper/helper,no condition,1
+733,call assistant,your friends,no condition,0
+733,call assistant,skills,if the data is anonymous,0
+733,shopping,skills,if you are notified,0
+733,door locker,visitors in general,no condition,0
+733,camera,your children,no condition,0
+733,call assistant,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+733,video call,assistant provider,no condition,0
+733,call assistant,visitors in general,no condition,1
+733,call assistant,skills,no condition,1
+733,shopping,law enforcement agencies,no condition,0
+733,door locker,close family,no condition,0
+733,call assistant,law enforcement agencies,if the data is kept confidential,0
+733,camera,law enforcement agencies,no condition,1
+733,call assistant,your partner,no condition,0
+733,call assistant,skills,if you can delete or review the data,0
+733,call assistant,skills,if the data is stored for as long as necessary for the purpose,0
+733,video call,advertising agencies,if you can delete or review the data,0
+733,thermostat,visitors in general,no condition,0
+733,video call,law enforcement agencies,no condition,0
+733,shopping,assistant provider,if the data is anonymous,0
+733,thermostat,your siblings,no condition,0
+733,camera,advertising agencies,if you can delete or review the data,0
+733,camera,your partner,no condition,0
+733,door locker,house keeper/helper,no condition,0
+733,camera,advertising agencies,if the data is stored for as long as necessary for the purpose,0
+733,camera,house keeper/helper,no condition,0
+733,door locker,skills,if the data is anonymous,0
+733,camera,your friends,no condition,0
+733,door locker,skills,if the data is kept confidential,0
+733,door locker,skills,if you are notified,0
+733,call assistant,close family,no condition,0
+733,call assistant,your friends,no condition,0
+733,video call,skills,no condition,1
+733,camera,law enforcement agencies,if you are notified,0
+733,shopping,assistant provider,if you are notified,0
+733,video call,advertising agencies,if the data is kept confidential,0
+733,camera,your parents,no condition,0
+733,thermostat,advertising agencies,no condition,1
+733,shopping,skills,if the data is kept confidential,0
+733,thermostat,close family,no condition,0
+733,shopping,assistant provider,if the data is kept confidential,0
+733,shopping,assistant provider,no condition,0
+733,camera,advertising agencies,if the data is kept confidential,0
+733,camera,law enforcement agencies,if the data is kept confidential,0
+733,shopping,advertising agencies,no condition,0
+1194,location,skills,if the data is kept confidential,0
+1194,sleep hours,skills,if you are notified,1
+1194,sleep hours,skills,no condition,1
+1194,sleep hours,advertising agencies,if the data is kept confidential,1
+1194,sleep hours,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+1194,video call,your parents,no condition,1
+1194,video call,your friends,no condition,1
+1194,camera,assistant provider,if the data is stored for as long as necessary for the purpose,0
+1194,camera,close family,no condition,0
+1194,camera,law enforcement agencies,if you are notified,0
+1194,banking,skills,if the data is kept confidential,0
+1194,video call,neighbours,no condition,1
+1194,shopping,skills,no condition,1
+1194,location,advertising agencies,if you can delete or review the data,1
+1194,camera,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+1194,shopping,advertising agencies,if you are notified,1
+1194,shopping,advertising agencies,if you can delete or review the data,1
+1194,video call,your friends,no condition,1
+1194,banking,assistant provider,if you can delete or review the data,1
+1194,location,skills,no condition,1
+1194,banking,skills,no condition,1
+1194,shopping,skills,if the data is anonymous,1
+1194,shopping,neighbours,no condition,1
+1194,camera,skills,if you can delete or review the data,1
+1194,video call,visitors in general,no condition,1
+1194,sleep hours,skills,if the data is stored for as long as necessary for the purpose,1
+1194,location,skills,if you can delete or review the data,1
+1194,shopping,your parents,no condition,0
+1194,location,skills,if the data is kept confidential,1
+1194,banking,law enforcement agencies,if you are notified,0
+1194,sleep hours,skills,if the data is anonymous,1
+1194,sleep hours,advertising agencies,no condition,1
+1194,sleep hours,advertising agencies,if you can delete or review the data,1
+1194,shopping,advertising agencies,no condition,1
+1194,camera,your partner,no condition,0
+1194,video call,close family,no condition,1
+1194,video call,skills,if the data is anonymous,1
+1194,shopping,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+1194,banking,assistant provider,no condition,1
+1194,video call,your children,no condition,1
+1194,shopping,law enforcement agencies,if the data is anonymous,0
+1194,banking,close family,no condition,1
+1194,location,assistant provider,no condition,0
+1194,sleep hours,your housemates,no condition,1
+1194,banking,law enforcement agencies,no condition,1
+1194,shopping,your partner,no condition,0
+447,video call,your siblings,no condition,1
+447,playlists,assistant provider,if you are notified,1
+447,weather,your siblings,no condition,0
+447,weather,close family,no condition,0
+447,camera,law enforcement agencies,no condition,0
+447,weather,neighbours,no condition,0
+447,healthcare,close family,no condition,0
+447,healthcare,skills,if the data is kept confidential,1
+447,weather,visitors in general,no condition,0
+447,weather,advertising agencies,no condition,1
+447,video call,assistant provider,if the data is anonymous,1
+447,location,law enforcement agencies,no condition,0
+447,location,advertising agencies,if you are notified,1
+447,video call,neighbours,no condition,1
+447,playlists,advertising agencies,if you are notified,1
+447,camera,skills,if the data is anonymous,0
+447,location,skills,no condition,1
+447,healthcare,advertising agencies,if the data is kept confidential,1
+447,camera,skills,if you are notified,0
+447,playlists,assistant provider,if you can delete or review the data,1
+447,camera,close family,no condition,0
+447,playlists,your children,no condition,1
+447,video call,advertising agencies,no condition,1
+447,playlists,your siblings,no condition,1
+447,weather,law enforcement agencies,no condition,0
+447,camera,advertising agencies,if you can delete or review the data,1
+447,camera,law enforcement agencies,if you can delete or review the data,0
+447,video call,law enforcement agencies,if you are notified,0
+447,location,your partner,no condition,1
+447,weather,your children,no condition,0
+447,location,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+447,healthcare,house keeper/helper,no condition,0
+447,camera,your parents,no condition,0
+447,playlists,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+447,video call,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+447,video call,advertising agencies,if the data is anonymous,1
+447,video call,advertising agencies,if the data is kept confidential,1
+447,playlists,advertising agencies,if you can delete or review the data,1
+447,playlists,skills,no condition,1
+447,healthcare,skills,no condition,1
+447,playlists,your partner,no condition,1
+447,location,neighbours,no condition,1
+447,playlists,advertising agencies,no condition,1
+447,healthcare,your housemates,no condition,0
+447,healthcare,your partner,no condition,0
+447,healthcare,law enforcement agencies,no condition,1
+1033,voice recording,your partner,no condition,0
+1033,shopping,skills,no condition,0
+1033,voice recording,your partner,no condition,0
+1033,weather,advertising agencies,if the data is kept confidential,0
+1033,weather,skills,no condition,1
+1033,thermostat,your partner,no condition,0
+1033,door locker,your partner,no condition,0
+1033,todo,advertising agencies,if the data is anonymous,0
+1033,banking,advertising agencies,no condition,1
+1033,thermostat,neighbours,no condition,1
+1033,healthcare,your partner,no condition,0
+1033,banking,law enforcement agencies,if you are notified,1
+1033,healthcare,close family,no condition,1
+1033,todo,law enforcement agencies,if you are notified,1
+1033,voice recording,your parents,no condition,0
+1033,voice recording,your siblings,no condition,1
+1033,door locker,your siblings,no condition,1
+1033,todo,advertising agencies,no condition,1
+1033,sleep hours,skills,no condition,1
+1033,banking,house keeper/helper,no condition,1
+1033,voice recording,assistant provider,if the data is anonymous,0
+1033,weather,advertising agencies,if you are notified,0
+1033,thermostat,assistant provider,no condition,1
+1033,video call,skills,if the data is kept confidential,0
+1033,voice recording,skills,if you are notified,1
+1033,todo,your children,no condition,0
+1033,video call,your housemates,no condition,1
+1033,door locker,assistant provider,no condition,1
+1033,video call,your siblings,no condition,1
+1033,voice recording,your children,no condition,0
+1033,door locker,skills,no condition,1
+1033,door locker,your children,no condition,0
+1033,video call,your partner,no condition,0
+1033,healthcare,visitors in general,no condition,1
+1033,sleep hours,skills,if you are notified,1
+1033,banking,law enforcement agencies,if you can delete or review the data,0
+1033,thermostat,visitors in general,no condition,0
+1033,door locker,assistant provider,if the data is anonymous,0
+1033,shopping,skills,if the data is anonymous,0
+1033,shopping,skills,if you are notified,1
+1033,shopping,skills,if the data is kept confidential,0
+1033,todo,assistant provider,no condition,0
+1033,healthcare,your partner,no condition,0
+1033,video call,house keeper/helper,no condition,1
+1033,weather,assistant provider,if you can delete or review the data,0
+1033,todo,your housemates,no condition,0
+285,banking,visitors in general,no condition,0
+285,playlists,your children,no condition,0
+285,todo,law enforcement agencies,if you can delete or review the data,0
+285,sleep hours,your children,no condition,0
+285,email,house keeper/helper,no condition,0
+285,location,skills,if the data is anonymous,0
+285,weather,your partner,no condition,0
+285,camera,skills,if the data is stored for as long as necessary for the purpose,0
+285,location,assistant provider,if the data is stored for as long as necessary for the purpose,0
+285,location,neighbours,no condition,0
+285,banking,assistant provider,if the data is anonymous,0
+285,camera,skills,no condition,0
+285,location,visitors in general,no condition,1
+285,location,skills,if you can delete or review the data,0
+285,location,advertising agencies,if the data is kept confidential,0
+285,location,skills,if the data is stored for as long as necessary for the purpose,0
+285,email,your children,no condition,1
+285,location,skills,no condition,0
+285,todo,advertising agencies,no condition,0
+285,banking,house keeper/helper,no condition,0
+285,sleep hours,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+285,todo,assistant provider,if the data is stored for as long as necessary for the purpose,0
+285,camera,skills,no condition,0
+285,playlists,skills,if you are notified,0
+285,banking,law enforcement agencies,no condition,1
+285,location,law enforcement agencies,no condition,1
+285,location,advertising agencies,no condition,0
+285,playlists,skills,no condition,0
+285,camera,skills,if the data is kept confidential,0
+285,email,assistant provider,if you are notified,0
+285,banking,skills,if the data is kept confidential,0
+285,weather,assistant provider,if the data is anonymous,0
+285,weather,close family,no condition,0
+285,voice recording,close family,no condition,0
+285,banking,skills,no condition,1
+285,sleep hours,law enforcement agencies,no condition,1
+285,weather,visitors in general,no condition,0
+285,playlists,law enforcement agencies,no condition,0
+285,banking,assistant provider,no condition,0
+285,banking,skills,if the data is kept confidential,0
+285,voice recording,assistant provider,if the data is kept confidential,0
+285,todo,your friends,no condition,0
+285,email,visitors in general,no condition,1
+285,email,close family,no condition,0
+285,banking,skills,if you can delete or review the data,0
+285,sleep hours,law enforcement agencies,if you can delete or review the data,0
+577,video call,your parents,no condition,0
+577,video call,your siblings,no condition,0
+577,shopping,close family,no condition,1
+577,todo,your housemates,no condition,1
+577,todo,advertising agencies,if you are notified,1
+577,todo,your siblings,no condition,1
+577,camera,skills,if the data is anonymous,1
+577,todo,advertising agencies,no condition,1
+577,todo,skills,if the data is anonymous,1
+577,shopping,your housemates,no condition,1
+577,shopping,skills,if the data is kept confidential,1
+577,weather,your parents,no condition,1
+577,door locker,skills,if the data is stored for as long as necessary for the purpose,1
+577,camera,skills,if the data is kept confidential,1
+577,shopping,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+577,todo,law enforcement agencies,if you are notified,0
+577,video call,advertising agencies,no condition,1
+577,camera,your children,no condition,0
+577,video call,assistant provider,if the data is anonymous,1
+577,shopping,skills,if you are notified,1
+577,door locker,house keeper/helper,no condition,0
+577,video call,skills,no condition,1
+577,todo,assistant provider,if you are notified,0
+577,video call,assistant provider,no condition,1
+577,camera,neighbours,no condition,1
+577,camera,skills,if you are notified,1
+577,weather,skills,no condition,1
+577,shopping,law enforcement agencies,no condition,1
+577,video call,visitors in general,no condition,0
+577,weather,your siblings,no condition,1
+577,shopping,house keeper/helper,no condition,1
+577,door locker,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+577,todo,law enforcement agencies,if you can delete or review the data,0
+577,weather,skills,if the data is kept confidential,1
+577,door locker,skills,if you can delete or review the data,1
+577,door locker,law enforcement agencies,if the data is kept confidential,0
+577,todo,skills,if the data is kept confidential,1
+577,camera,law enforcement agencies,no condition,0
+577,camera,law enforcement agencies,if you can delete or review the data,0
+577,video call,skills,no condition,0
+577,video call,your children,no condition,0
+577,todo,law enforcement agencies,if the data is kept confidential,0
+577,weather,your housemates,no condition,0
+577,todo,skills,if you are notified,0
+577,door locker,law enforcement agencies,if the data is anonymous,0
+577,camera,law enforcement agencies,if you are notified,0
+286,weather,advertising agencies,no condition,1
+286,door locker,advertising agencies,if you can delete or review the data,0
+286,door locker,advertising agencies,if the data is anonymous,0
+286,camera,your housemates,no condition,1
+286,weather,assistant provider,no condition,1
+286,door locker,close family,no condition,1
+286,shopping,advertising agencies,no condition,1
+286,shopping,visitors in general,no condition,0
+286,shopping,assistant provider,no condition,1
+286,weather,law enforcement agencies,if you are notified,0
+286,door locker,skills,no condition,1
+286,camera,your siblings,no condition,1
+286,voice recording,visitors in general,no condition,1
+286,voice recording,skills,if you are notified,1
+286,camera,law enforcement agencies,if the data is kept confidential,0
+286,location,advertising agencies,no condition,1
+286,location,law enforcement agencies,no condition,1
+286,camera,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+286,door locker,advertising agencies,no condition,1
+286,location,skills,if the data is kept confidential,1
+286,door locker,visitors in general,no condition,1
+286,shopping,assistant provider,if you are notified,1
+286,shopping,skills,if the data is stored for as long as necessary for the purpose,0
+286,weather,assistant provider,no condition,1
+286,shopping,your children,no condition,0
+286,weather,advertising agencies,no condition,1
+286,voice recording,your parents,no condition,1
+286,voice recording,law enforcement agencies,if the data is stored for as long as necessary for the purpose,0
+286,voice recording,skills,if you can delete or review the data,1
+286,shopping,assistant provider,no condition,1
+286,voice recording,skills,if the data is anonymous,1
+286,voice recording,your housemates,no condition,1
+286,location,assistant provider,if you are notified,1
+286,voice recording,skills,no condition,1
+286,location,advertising agencies,if the data is anonymous,1
+286,shopping,close family,no condition,0
+286,weather,assistant provider,if the data is anonymous,1
+286,door locker,law enforcement agencies,no condition,1
+286,weather,advertising agencies,if the data is anonymous,1
+286,location,skills,no condition,1
+286,camera,skills,no condition,1
+286,door locker,your siblings,no condition,1
+286,voice recording,assistant provider,if you can delete or review the data,1
+286,weather,skills,no condition,1
+286,camera,law enforcement agencies,if the data is anonymous,0
+286,location,skills,if you are notified,1
+194,voice recording,skills,if you can delete or review the data,1
+194,thermostat,house keeper/helper,no condition,0
+194,voice recording,your friends,no condition,1
+194,banking,neighbours,no condition,1
+194,video call,skills,if you can delete or review the data,1
+194,sleep hours,advertising agencies,if you are notified,1
+194,voice recording,your partner,no condition,1
+194,banking,your partner,no condition,1
+194,video call,skills,if the data is stored for as long as necessary for the purpose,1
+194,sleep hours,assistant provider,no condition,1
+194,camera,your parents,no condition,0
+194,video call,advertising agencies,if you can delete or review the data,1
+194,camera,law enforcement agencies,if you are notified,0
+194,voice recording,assistant provider,if the data is stored for as long as necessary for the purpose,1
+194,video call,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+194,sleep hours,skills,no condition,1
+194,banking,skills,if the data is stored for as long as necessary for the purpose,0
+194,banking,assistant provider,if you are notified,1
+194,sleep hours,skills,if you are notified,0
+194,camera,close family,no condition,0
+194,camera,neighbours,no condition,1
+194,camera,close family,no condition,0
+194,video call,your partner,no condition,0
+194,sleep hours,skills,no condition,1
+194,sleep hours,advertising agencies,no condition,1
+194,banking,your housemates,no condition,1
+194,voice recording,visitors in general,no condition,1
+194,voice recording,close family,no condition,1
+194,camera,your partner,no condition,0
+194,banking,your children,no condition,1
+194,banking,skills,if you can delete or review the data,0
+194,banking,visitors in general,no condition,1
+194,voice recording,law enforcement agencies,if the data is kept confidential,1
+194,camera,visitors in general,no condition,1
+194,camera,assistant provider,if the data is kept confidential,0
+194,sleep hours,skills,if the data is anonymous,0
+194,voice recording,assistant provider,if you are notified,1
+194,camera,law enforcement agencies,if you can delete or review the data,0
+194,banking,your housemates,no condition,1
+194,thermostat,your partner,no condition,0
+194,video call,house keeper/helper,no condition,1
+194,thermostat,skills,if the data is stored for as long as necessary for the purpose,1
+194,video call,skills,if the data is anonymous,1
+194,camera,neighbours,no condition,0
+194,thermostat,skills,no condition,1
+194,banking,your partner,no condition,1
+1266,healthcare,your partner,no condition,0
+1266,todo,your friends,no condition,1
+1266,healthcare,skills,no condition,1
+1266,email,advertising agencies,if you can delete or review the data,0
+1266,thermostat,skills,if the data is anonymous,1
+1266,email,advertising agencies,no condition,1
+1266,weather,advertising agencies,if you are notified,1
+1266,voice recording,visitors in general,no condition,1
+1266,todo,advertising agencies,if the data is kept confidential,1
+1266,email,advertising agencies,no condition,0
+1266,thermostat,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+1266,email,skills,no condition,0
+1266,weather,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+1266,email,close family,no condition,0
+1266,weather,advertising agencies,no condition,1
+1266,voice recording,skills,if the data is kept confidential,1
+1266,voice recording,house keeper/helper,no condition,1
+1266,thermostat,skills,if the data is kept confidential,1
+1266,voice recording,close family,no condition,1
+1266,weather,your friends,no condition,1
+1266,email,your children,no condition,0
+1266,voice recording,neighbours,no condition,1
+1266,weather,your housemates,no condition,1
+1266,todo,law enforcement agencies,if the data is stored for as long as necessary for the purpose,1
+1266,todo,assistant provider,no condition,1
+1266,todo,skills,no condition,1
+1266,thermostat,skills,if you can delete or review the data,1
+1266,healthcare,your housemates,no condition,1
+1266,voice recording,neighbours,no condition,1
+1266,voice recording,assistant provider,if the data is anonymous,0
+1266,todo,law enforcement agencies,if you are notified,1
+1266,healthcare,neighbours,no condition,1
+1266,todo,house keeper/helper,no condition,1
+1266,thermostat,assistant provider,if the data is stored for as long as necessary for the purpose,1
+1266,email,your parents,no condition,0
+1266,healthcare,skills,no condition,1
+1266,todo,your parents,no condition,1
+1266,voice recording,your housemates,no condition,1
+1266,weather,your children,no condition,0
+1266,todo,advertising agencies,no condition,1
+1266,weather,assistant provider,if the data is anonymous,1
+1266,todo,advertising agencies,if the data is anonymous,1
+1266,thermostat,your friends,no condition,1
+1266,thermostat,close family,no condition,1
+1266,todo,advertising agencies,if you are notified,1
+1266,healthcare,house keeper/helper,no condition,1
+513,playlists,law enforcement agencies,no condition,1
+513,email,advertising agencies,if you can delete or review the data,1
+513,email,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+513,call assistant,law enforcement agencies,if you can delete or review the data,0
+513,video call,your housemates,no condition,1
+513,playlists,law enforcement agencies,if you can delete or review the data,1
+513,location,skills,no condition,1
+513,video call,law enforcement agencies,no condition,0
+513,email,advertising agencies,if the data is kept confidential,0
+513,door locker,skills,if the data is kept confidential,0
+513,voice recording,skills,if the data is stored for as long as necessary for the purpose,0
+513,call assistant,your partner,no condition,1
+513,video call,neighbours,no condition,1
+513,email,skills,if the data is stored for as long as necessary for the purpose,1
+513,sleep hours,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+513,banking,assistant provider,if the data is stored for as long as necessary for the purpose,1
+513,call assistant,advertising agencies,if the data is anonymous,0
+513,video call,law enforcement agencies,if the data is stored for as long as necessary for the purpose,1
+513,playlists,skills,if the data is stored for as long as necessary for the purpose,0
+513,location,skills,if the data is kept confidential,0
+513,sleep hours,advertising agencies,if the data is anonymous,1
+513,call assistant,skills,if the data is kept confidential,0
+513,shopping,advertising agencies,no condition,1
+513,healthcare,skills,no condition,1
+513,sleep hours,skills,if the data is kept confidential,0
+513,healthcare,advertising agencies,if you can delete or review the data,1
+513,voice recording,close family,no condition,1
+513,video call,your children,no condition,0
+513,sleep hours,assistant provider,no condition,1
+513,door locker,advertising agencies,no condition,0
+513,video call,advertising agencies,if the data is kept confidential,1
+513,call assistant,skills,if you can delete or review the data,0
+513,call assistant,your friends,no condition,1
+513,email,advertising agencies,if you are notified,1
+513,weather,your parents,no condition,0
+513,banking,close family,no condition,1
+513,voice recording,skills,no condition,1
+513,banking,assistant provider,no condition,1
+513,call assistant,skills,no condition,1
+513,healthcare,advertising agencies,if you are notified,1
+513,video call,law enforcement agencies,no condition,0
+513,door locker,close family,no condition,1
+513,sleep hours,assistant provider,if the data is kept confidential,0
+513,video call,close family,no condition,1
+513,weather,neighbours,no condition,1
+513,video call,your children,no condition,1
+1090,camera,assistant provider,if the data is stored for as long as necessary for the purpose,0
+1090,location,your children,no condition,1
+1090,camera,assistant provider,no condition,1
+1090,playlists,skills,no condition,1
+1090,sleep hours,skills,if you are notified,1
+1090,sleep hours,skills,if the data is kept confidential,1
+1090,playlists,law enforcement agencies,if you can delete or review the data,1
+1090,sleep hours,advertising agencies,if you can delete or review the data,1
+1090,camera,skills,no condition,1
+1090,playlists,your friends,no condition,1
+1090,playlists,law enforcement agencies,if you are notified,1
+1090,camera,advertising agencies,if you can delete or review the data,1
+1090,video call,advertising agencies,if you can delete or review the data,1
+1090,video call,advertising agencies,if you are notified,1
+1090,camera,advertising agencies,if the data is kept confidential,1
+1090,healthcare,your children,no condition,0
+1090,healthcare,neighbours,no condition,1
+1090,healthcare,your siblings,no condition,0
+1090,playlists,skills,no condition,1
+1090,camera,skills,no condition,1
+1090,camera,skills,if the data is stored for as long as necessary for the purpose,0
+1090,location,close family,no condition,1
+1090,healthcare,skills,if you can delete or review the data,0
+1090,healthcare,your parents,no condition,0
+1090,sleep hours,assistant provider,no condition,1
+1090,healthcare,close family,no condition,0
+1090,sleep hours,law enforcement agencies,no condition,1
+1090,location,skills,if you can delete or review the data,1
+1090,healthcare,skills,no condition,1
+1090,camera,assistant provider,no condition,0
+1090,camera,advertising agencies,no condition,1
+1090,playlists,your partner,no condition,1
+1090,location,advertising agencies,if the data is stored for as long as necessary for the purpose,1
+1090,video call,your children,no condition,1
+1090,video call,skills,no condition,1
+1090,healthcare,your friends,no condition,0
+1090,sleep hours,assistant provider,if the data is stored for as long as necessary for the purpose,1
+1090,location,your siblings,no condition,1
+1090,sleep hours,advertising agencies,if the data is anonymous,1
+1090,location,your siblings,no condition,1
+1090,video call,house keeper/helper,no condition,1
+1090,playlists,your siblings,no condition,1
+1090,healthcare,skills,if the data is kept confidential,0
+1090,playlists,close family,no condition,1
+1090,camera,assistant provider,if you can delete or review the data,0
+1090,playlists,assistant provider,no condition,1

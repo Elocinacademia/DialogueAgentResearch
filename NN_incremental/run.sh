@@ -1,12 +1,12 @@
 python main.py \
-    --data data/ \
-    --emsize 128 \
+    --data data_personal/ \
+    --emsize 32 \
     --nhid 128 \
-    --nlayers 1 \
+    --nlayers 2 \
     --lr 5e-5 \
     --wdecay 1e-5 \
     --epochs 10 \
-    --batch_size 64 \
-    --dropout 0.2 \
+    --batch_size 128 \
+    --dropout 0.1 \
     --output exp/ \
     --logfile exp/log.txt
