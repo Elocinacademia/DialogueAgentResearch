@@ -2,34 +2,46 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("../../../data/smarthome.csv")
+df = pd.read_csv("train.csv")
+df_2 = pd.read_csv("test.csv")
 print("Read data ....")
 
-#Drop nun values
 
-df.dropna(inplace=True)
-# One-hot encode the data using pandas get_dummies
-df = pd.get_dummies(df)
 
 # import pdb;pdb.set_trace()
 # Labels are the values we want to predict
-labels = np.array(df['Class'])
+labels_1 = np.array(df['Class'])
+labels_2 = np.array(df_2['Class'])
 
 # Remove the labels from the df
 # axis 1 refers to the columns
+
 df = df.drop('Class', axis = 1)
+df_2 = df_2.drop('Class', axis = 1)
+
 
 # Saving feature names for later use
 feature_list = list(df.columns)
 
 # Convert to numpy array
 df = np.array(df)
+df_2 = np.array(df_2)
 
 # Using Skicit-learn to split data into training and testing sets
 from sklearn.model_selection import train_test_split
 
 # Split the data into training and testing sets
-train_X, test_X, train_y, test_y = train_test_split(df, labels, test_size = 0.70, random_state = 42)
+# train_X, test_X, train_y, test_y = train_test_split(df, labels, test_size = 0.70, random_state = 42)
+
+train_X = df
+train_y = labels_1
+
+test_X = df_2
+test_y = labels_2
+
+
+
+
 
 print('Training Features Shape:', train_X.shape)
 print('Training Labels Shape:', train_y.shape)
@@ -61,11 +73,11 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn import tree
 from sklearn.tree import _tree
 
-df = DecisionTreeClassifier(max_depth=6, random_state=4321)
-model = df.fit(train_X, train_y)
+dt = DecisionTreeClassifier(max_depth=6, random_state=4321)
+model = dt.fit(train_X, train_y)
 
 # get the text representation
-text_representation = tree.export_text(df, feature_names=feature_list)
+text_representation = tree.export_text(dt, feature_names=feature_list)
 print(text_representation)
 
 def get_rules(tree, feature_names, class_names):
@@ -119,7 +131,7 @@ def get_rules(tree, feature_names, class_names):
         
     return rules
 
-rules = get_rules(df, feature_list, ["unaccept","accept"])
+rules = get_rules(dt, feature_list, ["unaccept","accept"])
 for k,r in enumerate(rules):
     new = r
     new = new.split("proba: ")[1]
@@ -128,22 +140,21 @@ for k,r in enumerate(rules):
     # import pdb;pdb.set_trace()
     if score >= 70:
         print(r)
-import pdb;pdb.set_trace()
-    
-    
+ 
 
 
 # import pdb;pdb.set_trace()
 
+'''
+if (13 >= Recipient > 9.5) and (Condition <= 0.5) and (Datatype <= 14.5) 
+then class: accept (proba: 74.25%) | based on 39,144 samples
+
+if (Recipient > 5.5) and (Condition <= 0.5) and (Recipient > 9.5) 
+and (Datatype <= 14.5) and (Recipient > 14.5) and (UID <= 1.5) 
+then class: unaccept (proba: 91.67%) | based on 12 samples
 
 
-
-
-
-
-
-
-
+'''
 
 
 # Instantiate model with 1000 decision trees
@@ -195,16 +206,20 @@ import pdb;pdb.set_trace()
 # import pdb;pdb.set_trace()
 
 # Use the forest's predict method on the test data
-predictions = df.predict(test_X)
+predictions = dt.predict(test_X)
 #Import scikit-learn metrics module for accuracy calculation
 from sklearn import metrics
 # Model Accuracy, how often is the classifier correct?
 print("Original Model Accuracy:",metrics.accuracy_score(test_y, predictions))
 
-
-''' ===========
-Result printing:
-==========='''
+import pdb;pdb.set_trace()
+    
+   
+''' 
+#===========
+#Result printing:
+#===========
+'''
 # clf.estimators_[100]
 import matplotlib.pyplot as plt
 from sklearn.tree import plot_tree

@@ -112,6 +112,10 @@ for k, v in enumerate(reader):
     buffer.append(label[v[9]])
     final_file.append(buffer)
 
+
+import pdb;pdb.set_trace()
+
+
 save_file = 'smarthome_plaintext.csv'
 with open(save_file,"w") as csv_file:
     writer=csv.writer(csv_file)

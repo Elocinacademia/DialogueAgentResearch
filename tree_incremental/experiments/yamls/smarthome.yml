@@ -1,16 +1,16 @@
 # Tree parameters
 
-delta: 0.01
+delta: 0.1
 nume_max_class: 10
 min_samples_reevaluate: 10
 grace_period: 100 
-max_depth: 100
+max_depth: 10
 tau: 0.05
 
 metric: 'gini'
 
 # Train
-max_instance: 247000
+max_instance: 191218
 
 
 

@@ -57,9 +57,9 @@ datasets_config = {
         'attr_types': [AttrType.CATE] * 5
     },
     'smarthome':{
-        'csv_path': './dataset/smarthome/smarthome.csv',
+        'csv_path': './dataset/smarthome/train.csv',
         'yml_config': './experiments/yamls/smarthome.yml',
-        'attr_types': [AttrType.CATE] * 3
+        'attr_types': [AttrType.NUME] * 1 + [AttrType.CATE] * 3
     }
 }
 
