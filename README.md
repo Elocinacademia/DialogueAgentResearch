@@ -36,3 +36,13 @@ Plaintext data
 -----
 Update:
 `DialogueAgentResearch/data/incremental_numerical` contains the numerical data which has been splitted to incremental set, train set, and test set.
+
+
+----
+Reminder: 
+
+NN 80.3%   
+
+VFDT 72.04%
+
+Now: Try Gradient Boosting Decision Trees??????
